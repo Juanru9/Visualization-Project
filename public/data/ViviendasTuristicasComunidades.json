@@ -1,0 +1,954 @@
+﻿{
+    "ViviendasTuristicas": [{
+            "Comunidades": "01 Andalucía",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 6.739200000000000e+004
+        }, {
+            "Comunidades": "01 Andalucía",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 6.157400000000000e+004
+        }, {
+            "Comunidades": "01 Andalucía",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 6.317900000000000e+004
+        }, {
+            "Comunidades": "01 Andalucía",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 6.081300000000000e+004
+        }, {
+            "Comunidades": "01 Andalucía",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 7.012300000000000e+004
+        }, {
+            "Comunidades": "01 Andalucía",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 7.019400000000000e+004
+        }, {
+            "Comunidades": "01 Andalucía",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 7.906500000000000e+004
+        }, {
+            "Comunidades": "01 Andalucía",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 8.245400000000000e+004
+        }, {
+            "Comunidades": "01 Andalucía",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 8.843500000000000e+004
+        }, {
+            "Comunidades": "01 Andalucía",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 8.219500000000000e+004
+        }, {
+            "Comunidades": "02 Aragón",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 3.767000000000000e+003
+        }, {
+            "Comunidades": "02 Aragón",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 3.521000000000000e+003
+        }, {
+            "Comunidades": "02 Aragón",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 3.609000000000000e+003
+        }, {
+            "Comunidades": "02 Aragón",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 3.480000000000000e+003
+        }, {
+            "Comunidades": "02 Aragón",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 3.744000000000000e+003
+        }, {
+            "Comunidades": "02 Aragón",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 3.880000000000000e+003
+        }, {
+            "Comunidades": "02 Aragón",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 4.041000000000000e+003
+        }, {
+            "Comunidades": "02 Aragón",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 4.594000000000000e+003
+        }, {
+            "Comunidades": "02 Aragón",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 5.008000000000000e+003
+        }, {
+            "Comunidades": "02 Aragón",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 4.864000000000000e+003
+        }, {
+            "Comunidades": "03 Asturias, Principado de",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 4.891000000000000e+003
+        }, {
+            "Comunidades": "03 Asturias, Principado de",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 4.373000000000000e+003
+        }, {
+            "Comunidades": "03 Asturias, Principado de",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 5.176000000000000e+003
+        }, {
+            "Comunidades": "03 Asturias, Principado de",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 4.723000000000000e+003
+        }, {
+            "Comunidades": "03 Asturias, Principado de",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 6.110000000000000e+003
+        }, {
+            "Comunidades": "03 Asturias, Principado de",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 5.810000000000000e+003
+        }, {
+            "Comunidades": "03 Asturias, Principado de",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 7.036000000000000e+003
+        }, {
+            "Comunidades": "03 Asturias, Principado de",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 7.240000000000000e+003
+        }, {
+            "Comunidades": "03 Asturias, Principado de",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 8.755000000000000e+003
+        }, {
+            "Comunidades": "03 Asturias, Principado de",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 7.649000000000000e+003
+        }, {
+            "Comunidades": "04 Balears, Illes",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 2.923700000000000e+004
+        }, {
+            "Comunidades": "04 Balears, Illes",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 2.770300000000000e+004
+        }, {
+            "Comunidades": "04 Balears, Illes",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 2.921100000000000e+004
+        }, {
+            "Comunidades": "04 Balears, Illes",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 2.645800000000000e+004
+        }, {
+            "Comunidades": "04 Balears, Illes",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 2.703800000000000e+004
+        }, {
+            "Comunidades": "04 Balears, Illes",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 2.539300000000000e+004
+        }, {
+            "Comunidades": "04 Balears, Illes",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 2.650700000000000e+004
+        }, {
+            "Comunidades": "04 Balears, Illes",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 2.507300000000000e+004
+        }, {
+            "Comunidades": "04 Balears, Illes",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 2.699400000000000e+004
+        }, {
+            "Comunidades": "04 Balears, Illes",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 2.419000000000000e+004
+        }, {
+            "Comunidades": "05 Canarias",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 3.779100000000000e+004
+        }, {
+            "Comunidades": "05 Canarias",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 3.785500000000000e+004
+        }, {
+            "Comunidades": "05 Canarias",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 3.932700000000000e+004
+        }, {
+            "Comunidades": "05 Canarias",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 3.876800000000000e+004
+        }, {
+            "Comunidades": "05 Canarias",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 4.093500000000000e+004
+        }, {
+            "Comunidades": "05 Canarias",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 4.265100000000000e+004
+        }, {
+            "Comunidades": "05 Canarias",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 4.437600000000000e+004
+        }, {
+            "Comunidades": "05 Canarias",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 4.678400000000000e+004
+        }, {
+            "Comunidades": "05 Canarias",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 5.117500000000000e+004
+        }, {
+            "Comunidades": "05 Canarias",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 5.128600000000000e+004
+        }, {
+            "Comunidades": "06 Cantabria",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 4.886000000000000e+003
+        }, {
+            "Comunidades": "06 Cantabria",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 4.323000000000000e+003
+        }, {
+            "Comunidades": "06 Cantabria",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 5.362000000000000e+003
+        }, {
+            "Comunidades": "06 Cantabria",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 4.826000000000000e+003
+        }, {
+            "Comunidades": "06 Cantabria",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 6.281000000000000e+003
+        }, {
+            "Comunidades": "06 Cantabria",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 5.701000000000000e+003
+        }, {
+            "Comunidades": "06 Cantabria",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 6.920000000000000e+003
+        }, {
+            "Comunidades": "06 Cantabria",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 6.954000000000000e+003
+        }, {
+            "Comunidades": "06 Cantabria",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 8.684000000000000e+003
+        }, {
+            "Comunidades": "06 Cantabria",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 7.496000000000000e+003
+        }, {
+            "Comunidades": "07 Castilla y León",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 5.794000000000000e+003
+        }, {
+            "Comunidades": "07 Castilla y León",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 5.403000000000000e+003
+        }, {
+            "Comunidades": "07 Castilla y León",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 5.735000000000000e+003
+        }, {
+            "Comunidades": "07 Castilla y León",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 5.612000000000000e+003
+        }, {
+            "Comunidades": "07 Castilla y León",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 6.171000000000000e+003
+        }, {
+            "Comunidades": "07 Castilla y León",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 6.231000000000000e+003
+        }, {
+            "Comunidades": "07 Castilla y León",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 6.612000000000000e+003
+        }, {
+            "Comunidades": "07 Castilla y León",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 7.206000000000000e+003
+        }, {
+            "Comunidades": "07 Castilla y León",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 8.487000000000000e+003
+        }, {
+            "Comunidades": "07 Castilla y León",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 8.244000000000000e+003
+        }, {
+            "Comunidades": "08 Castilla - La Mancha",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 3.327000000000000e+003
+        }, {
+            "Comunidades": "08 Castilla - La Mancha",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 3.191000000000000e+003
+        }, {
+            "Comunidades": "08 Castilla - La Mancha",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 3.344000000000000e+003
+        }, {
+            "Comunidades": "08 Castilla - La Mancha",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 3.352000000000000e+003
+        }, {
+            "Comunidades": "08 Castilla - La Mancha",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 3.655000000000000e+003
+        }, {
+            "Comunidades": "08 Castilla - La Mancha",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 3.891000000000000e+003
+        }, {
+            "Comunidades": "08 Castilla - La Mancha",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 4.120000000000000e+003
+        }, {
+            "Comunidades": "08 Castilla - La Mancha",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 4.603000000000000e+003
+        }, {
+            "Comunidades": "08 Castilla - La Mancha",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 5.246000000000000e+003
+        }, {
+            "Comunidades": "08 Castilla - La Mancha",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 5.242000000000000e+003
+        }, {
+            "Comunidades": "09 Cataluña",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 6.319900000000000e+004
+        }, {
+            "Comunidades": "09 Cataluña",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 5.464600000000000e+004
+        }, {
+            "Comunidades": "09 Cataluña",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 5.649300000000000e+004
+        }, {
+            "Comunidades": "09 Cataluña",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 4.958800000000000e+004
+        }, {
+            "Comunidades": "09 Cataluña",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 4.926500000000000e+004
+        }, {
+            "Comunidades": "09 Cataluña",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 4.570900000000000e+004
+        }, {
+            "Comunidades": "09 Cataluña",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 5.202600000000000e+004
+        }, {
+            "Comunidades": "09 Cataluña",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 5.259800000000000e+004
+        }, {
+            "Comunidades": "09 Cataluña",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 5.870800000000000e+004
+        }, {
+            "Comunidades": "09 Cataluña",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 5.287000000000000e+004
+        }, {
+            "Comunidades": "10 Comunitat Valenciana",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 5.463800000000000e+004
+        }, {
+            "Comunidades": "10 Comunitat Valenciana",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 4.975700000000000e+004
+        }, {
+            "Comunidades": "10 Comunitat Valenciana",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 5.104700000000000e+004
+        }, {
+            "Comunidades": "10 Comunitat Valenciana",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 4.740300000000000e+004
+        }, {
+            "Comunidades": "10 Comunitat Valenciana",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 5.169100000000000e+004
+        }, {
+            "Comunidades": "10 Comunitat Valenciana",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 4.995000000000000e+004
+        }, {
+            "Comunidades": "10 Comunitat Valenciana",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 5.833700000000000e+004
+        }, {
+            "Comunidades": "10 Comunitat Valenciana",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 5.941300000000000e+004
+        }, {
+            "Comunidades": "10 Comunitat Valenciana",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 7.118600000000000e+004
+        }, {
+            "Comunidades": "10 Comunitat Valenciana",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 6.474500000000000e+004
+        }, {
+            "Comunidades": "11 Extremadura",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 1.366000000000000e+003
+        }, {
+            "Comunidades": "11 Extremadura",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 1.268000000000000e+003
+        }, {
+            "Comunidades": "11 Extremadura",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 1.289000000000000e+003
+        }, {
+            "Comunidades": "11 Extremadura",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 1.282000000000000e+003
+        }, {
+            "Comunidades": "11 Extremadura",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 1.478000000000000e+003
+        }, {
+            "Comunidades": "11 Extremadura",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 1.520000000000000e+003
+        }, {
+            "Comunidades": "11 Extremadura",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 1.592000000000000e+003
+        }, {
+            "Comunidades": "11 Extremadura",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 1.759000000000000e+003
+        }, {
+            "Comunidades": "11 Extremadura",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 2.021000000000000e+003
+        }, {
+            "Comunidades": "11 Extremadura",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 2.033000000000000e+003
+        }, {
+            "Comunidades": "12 Galicia",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 1.254800000000000e+004
+        }, {
+            "Comunidades": "12 Galicia",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 1.139800000000000e+004
+        }, {
+            "Comunidades": "12 Galicia",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 1.350200000000000e+004
+        }, {
+            "Comunidades": "12 Galicia",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 1.269500000000000e+004
+        }, {
+            "Comunidades": "12 Galicia",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 1.596600000000000e+004
+        }, {
+            "Comunidades": "12 Galicia",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 1.477500000000000e+004
+        }, {
+            "Comunidades": "12 Galicia",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 1.808000000000000e+004
+        }, {
+            "Comunidades": "12 Galicia",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 1.788300000000000e+004
+        }, {
+            "Comunidades": "12 Galicia",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 2.198300000000000e+004
+        }, {
+            "Comunidades": "12 Galicia",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 1.967600000000000e+004
+        }, {
+            "Comunidades": "13 Madrid, Comunidad de",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 1.959700000000000e+004
+        }, {
+            "Comunidades": "13 Madrid, Comunidad de",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 1.780200000000000e+004
+        }, {
+            "Comunidades": "13 Madrid, Comunidad de",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 1.740000000000000e+004
+        }, {
+            "Comunidades": "13 Madrid, Comunidad de",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 1.524100000000000e+004
+        }, {
+            "Comunidades": "13 Madrid, Comunidad de",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 1.576300000000000e+004
+        }, {
+            "Comunidades": "13 Madrid, Comunidad de",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 1.635100000000000e+004
+        }, {
+            "Comunidades": "13 Madrid, Comunidad de",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 1.697000000000000e+004
+        }, {
+            "Comunidades": "13 Madrid, Comunidad de",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 1.945600000000000e+004
+        }, {
+            "Comunidades": "13 Madrid, Comunidad de",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 2.243000000000000e+004
+        }, {
+            "Comunidades": "13 Madrid, Comunidad de",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 2.076000000000000e+004
+        }, {
+            "Comunidades": "14 Murcia, Región de",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 6.146000000000000e+003
+        }, {
+            "Comunidades": "14 Murcia, Región de",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 5.722000000000000e+003
+        }, {
+            "Comunidades": "14 Murcia, Región de",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 5.741000000000000e+003
+        }, {
+            "Comunidades": "14 Murcia, Región de",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 5.554000000000000e+003
+        }, {
+            "Comunidades": "14 Murcia, Región de",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 6.133000000000000e+003
+        }, {
+            "Comunidades": "14 Murcia, Región de",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 6.288000000000000e+003
+        }, {
+            "Comunidades": "14 Murcia, Región de",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 6.952000000000000e+003
+        }, {
+            "Comunidades": "14 Murcia, Región de",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 7.309000000000000e+003
+        }, {
+            "Comunidades": "14 Murcia, Región de",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 8.646000000000000e+003
+        }, {
+            "Comunidades": "14 Murcia, Región de",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 8.406000000000000e+003
+        }, {
+            "Comunidades": "15 Navarra, Comunidad Foral de",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 1.071000000000000e+003
+        }, {
+            "Comunidades": "15 Navarra, Comunidad Foral de",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 9.930000000000000e+002
+        }, {
+            "Comunidades": "15 Navarra, Comunidad Foral de",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 9.930000000000000e+002
+        }, {
+            "Comunidades": "15 Navarra, Comunidad Foral de",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 9.360000000000000e+002
+        }, {
+            "Comunidades": "15 Navarra, Comunidad Foral de",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 1.225000000000000e+003
+        }, {
+            "Comunidades": "15 Navarra, Comunidad Foral de",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 1.236000000000000e+003
+        }, {
+            "Comunidades": "15 Navarra, Comunidad Foral de",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 1.340000000000000e+003
+        }, {
+            "Comunidades": "15 Navarra, Comunidad Foral de",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 1.583000000000000e+003
+        }, {
+            "Comunidades": "15 Navarra, Comunidad Foral de",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 1.783000000000000e+003
+        }, {
+            "Comunidades": "15 Navarra, Comunidad Foral de",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 1.679000000000000e+003
+        }, {
+            "Comunidades": "16 País Vasco",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 4.598000000000000e+003
+        }, {
+            "Comunidades": "16 País Vasco",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 4.016000000000000e+003
+        }, {
+            "Comunidades": "16 País Vasco",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 4.354000000000000e+003
+        }, {
+            "Comunidades": "16 País Vasco",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 3.995000000000000e+003
+        }, {
+            "Comunidades": "16 País Vasco",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 4.693000000000000e+003
+        }, {
+            "Comunidades": "16 País Vasco",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 4.353000000000000e+003
+        }, {
+            "Comunidades": "16 País Vasco",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 5.121000000000000e+003
+        }, {
+            "Comunidades": "16 País Vasco",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 5.140000000000000e+003
+        }, {
+            "Comunidades": "16 País Vasco",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 5.828000000000000e+003
+        }, {
+            "Comunidades": "16 País Vasco",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 5.473000000000000e+003
+        }, {
+            "Comunidades": "17 Rioja, La",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 1.139000000000000e+003
+        }, {
+            "Comunidades": "17 Rioja, La",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 1.061000000000000e+003
+        }, {
+            "Comunidades": "17 Rioja, La",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 1.110000000000000e+003
+        }, {
+            "Comunidades": "17 Rioja, La",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 1.050000000000000e+003
+        }, {
+            "Comunidades": "17 Rioja, La",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 1.155000000000000e+003
+        }, {
+            "Comunidades": "17 Rioja, La",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 1.105000000000000e+003
+        }, {
+            "Comunidades": "17 Rioja, La",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 1.228000000000000e+003
+        }, {
+            "Comunidades": "17 Rioja, La",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 1.263000000000000e+003
+        }, {
+            "Comunidades": "17 Rioja, La",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 1.403000000000000e+003
+        }, {
+            "Comunidades": "17 Rioja, La",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 1.380000000000000e+003
+        }, {
+            "Comunidades": "18 Ceuta",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 1.320000000000000e+002
+        }, {
+            "Comunidades": "18 Ceuta",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 9.800000000000000e+001
+        }, {
+            "Comunidades": "18 Ceuta",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 1.120000000000000e+002
+        }, {
+            "Comunidades": "18 Ceuta",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 9.400000000000000e+001
+        }, {
+            "Comunidades": "18 Ceuta",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 1.020000000000000e+002
+        }, {
+            "Comunidades": "18 Ceuta",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 8.600000000000000e+001
+        }, {
+            "Comunidades": "18 Ceuta",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 9.400000000000000e+001
+        }, {
+            "Comunidades": "18 Ceuta",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 7.800000000000000e+001
+        }, {
+            "Comunidades": "18 Ceuta",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 1.080000000000000e+002
+        }, {
+            "Comunidades": "18 Ceuta",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 1.140000000000000e+002
+        }, {
+            "Comunidades": "19 Melilla",
+            "Anio": "2020",
+            "Mes": "08",
+            "Total": 8.600000000000000e+001
+        }, {
+            "Comunidades": "19 Melilla",
+            "Anio": "2021",
+            "Mes": "02",
+            "Total": 8.600000000000000e+001
+        }, {
+            "Comunidades": "19 Melilla",
+            "Anio": "2021",
+            "Mes": "08",
+            "Total": 9.200000000000000e+001
+        }, {
+            "Comunidades": "19 Melilla",
+            "Anio": "2022",
+            "Mes": "02",
+            "Total": 9.000000000000000e+001
+        }, {
+            "Comunidades": "19 Melilla",
+            "Anio": "2022",
+            "Mes": "08",
+            "Total": 8.200000000000000e+001
+        }, {
+            "Comunidades": "19 Melilla",
+            "Anio": "2023",
+            "Mes": "02",
+            "Total": 1.100000000000000e+002
+        }, {
+            "Comunidades": "19 Melilla",
+            "Anio": "2023",
+            "Mes": "08",
+            "Total": 1.080000000000000e+002
+        }, {
+            "Comunidades": "19 Melilla",
+            "Anio": "2024",
+            "Mes": "02",
+            "Total": 7.600000000000000e+001
+        }, {
+            "Comunidades": "19 Melilla",
+            "Anio": "2024",
+            "Mes": "08",
+            "Total": 1.140000000000000e+002
+        }, {
+            "Comunidades": "19 Melilla",
+            "Anio": "2024",
+            "Mes": "11",
+            "Total": 1.000000000000000e+002
+        }
+    ]
+}

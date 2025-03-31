@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import { 
   AppBar, 
@@ -16,23 +16,56 @@ import {
 import DashboardIcon from '@mui/icons-material/Dashboard';
 import MapIcon from '@mui/icons-material/Map';
 import BarChartIcon from '@mui/icons-material/BarChart';
-import { BarChart } from './components/BarChart';
-import { MapComponent } from './components/MapComponent';
 import { HomePage } from './components/HomePage';
-import { DataPoint } from './types';
-
-const data: DataPoint[] = [
-  { name: 'Enero', value: 40 },
-  { name: 'Febrero', value: 55 },
-  { name: 'Marzo', value: 30 },
-  { name: 'Abril', value: 80 },
-  { name: 'Mayo', value: 60 },
-  { name: 'Junio', value: 90 },
-];
+import { ExtranjerosHipotecasJSON, SpainCommunitiesGeoJSON, SpainProvincesGeoJSON, ViviendasTuristicasComunidadesData, ViviendasTuristicasProvinciasData } from './types';
+import { MapaViviendaTuristicaProvincia } from './components/MapaViviendaTuristicaProvincia';
+import { json } from 'd3';
+import { MapaViviendaTuristicaComunidades } from './components/MapaViviendaTuristicaComunidades';
+import { ExtranjerosHipotecasGroupedChart } from './components/ExtranjerosHipotecasGroupedChart';
+import { ExtranjerosHipotecasTimeSeriesChart } from './components/ExtranjerosHipotecasTimeSeriesChart';
 
 const drawerWidth = 240;
 
 const App: React.FC = () => {
+  const [geoData, setGeoData] = useState<SpainProvincesGeoJSON | undefined>(undefined);
+  const [geoDataComunity, setGeoDataComunity] = useState<SpainCommunitiesGeoJSON | undefined>(undefined);
+  const [generalTourismData, setGeneralTourismData] = useState<{ ViviendasTuristicas: ViviendasTuristicasProvinciasData } | null>(null);
+  const [generalTourismDataCom, setGeneralTourismDataCom] = useState<{ ViviendasTuristicas: ViviendasTuristicasComunidadesData } | null>(null);
+  const [extranjerosHipotecas, setExtranjerosHipotecas] = useState<{ ExtranjerosHipotecas: ExtranjerosHipotecasJSON } | null>(null);
+
+  useEffect(() => {
+    // Cargar el GeoJSON provincias
+    json<SpainProvincesGeoJSON>('/geojson/spain-provinces.geojson')
+      .then(data => setGeoData(data))
+      .catch(error => console.error('Error loading GeoJSON (Provinces):', error));
+    // Cargar el GeoJSON comunidades
+    json<SpainCommunitiesGeoJSON>('/geojson/spain-communities.geojson')
+    .then(data => setGeoDataComunity(data))
+    .catch(error => console.error('Error loading GeoJSON (CCAA):', error));
+
+    // Cargar el JSON de Viviendas Turísticas para provincias
+    fetch('/data/ViviendasTuristicasProvincias.json')
+      .then(response => response.json())
+      .then(data => setGeneralTourismData(data))
+      .catch(error => console.error('Error fetching data (Provinces):', error));
+
+    // Cargar el JSON de Viviendas Turísticas para provincias
+    fetch('/data/ViviendasTuristicasComunidades.json')
+      .then(response => response.json())
+      .then(data => setGeneralTourismDataCom(data))
+      .catch(error => console.error('Error fetching data (CCAA):', error));
+
+    // Cargar el JSON de datos Extranjeros vs importe hipotecas
+    fetch('/data/ExtranjerosHipotecas.json')
+    .then(response => response.json())
+    .then(data => setExtranjerosHipotecas(data))
+    .catch(error => console.error('Error fetching data extranjeros vs hipotecas:', error));
+  }, []);
+
+  if (!geoData || !generalTourismData || !geoDataComunity || !generalTourismDataCom || !extranjerosHipotecas) {
+    return <div>Cargando datos iniciales...</div>;
+  }
+    
   return (
     <Router>
       <Box sx={{ display: 'flex' }}>
@@ -67,19 +100,49 @@ const App: React.FC = () => {
           <Toolbar />
           <Divider />
           <List>
-            <ListItem disablePadding key="heatmap">
-              <ListItemButton component={Link} to="/heatmap">
+            {/* Viviendas Turisticas provincias */}
+            <ListItem disablePadding key="ViviendasTuristicasProvincias">
+              <ListItemButton component={Link} to="/ViviendasTuristicasProvincias">
                 <MapIcon sx={{ mr: 2 }} />
-                <ListItemText primary="Mapa de Calor" />
+                <ListItemText primary="Viviendas turísticas (Provincias)" />
               </ListItemButton>
             </ListItem>
+            {/* Viviendas Turisticas comunidad */}
+            <ListItem disablePadding key="ViviendasTuristicasComunidad">
+              <ListItemButton component={Link} to="/ViviendasTuristicasComunidad">
+                <MapIcon sx={{ mr: 2 }} />
+                <ListItemText primary="Viviendas turísticas (CCAA)" />
+              </ListItemButton>
+            </ListItem>
+            {/* BarChart */}
             <ListItem disablePadding key="barchart">
-              <ListItemButton component={Link} to="/barchart">
+              <ListItemButton component={Link} to="/GroupedBarChart">
                 <BarChartIcon sx={{ mr: 2 }} />
-                <ListItemText primary="Gráfico de Barras" />
+                <ListItemText primary="Turismo extranjero vs Hipotecas (Bar Chart)" />
               </ListItemButton>
             </ListItem>
-            {/* Puedes agregar más elementos de navegación aquí */}
+            {/* Turismo extranjero vs Hipotecas */}
+            <ListItem disablePadding key="barchart">
+            <ListItemButton component={Link} to="/TimeSeriesChart">
+              <BarChartIcon sx={{ mr: 2 }} />
+              <ListItemText primary="Turismo extranjero vs Hipotecas (Serie temporal)" />
+            </ListItemButton>
+          </ListItem>
+            {/* PIB vs Precio de las hipotecas */}
+            <ListItem disablePadding key="barchart">
+            <ListItemButton component={Link} to="/PIBvsPrecioHipotecas">
+              <BarChartIcon sx={{ mr: 2 }} />
+              <ListItemText primary="PIB vs Hipotecas" />
+            </ListItemButton>
+          </ListItem>
+            {/* Precio de las hipotecas vs Tipo de interes */}
+            <ListItem disablePadding key="barchart">
+            <ListItemButton component={Link} to="/PrecioHipotecasVsTipoInteres">
+              <BarChartIcon sx={{ mr: 2 }} />
+              <ListItemText primary="Hipotecas vs Tipos de interés" />
+            </ListItemButton>
+          </ListItem>
+
           </List>
         </Drawer>
         {/* Área principal de contenido */}
@@ -94,8 +157,10 @@ const App: React.FC = () => {
         >
           <Toolbar />
           <Routes>
-            <Route path="/heatmap" element={<MapComponent />} />
-            <Route path="/barchart" element={<BarChart data={data} />} />
+            <Route path="/ViviendasTuristicasProvincias" element={<MapaViviendaTuristicaProvincia geoData={geoData} rawData={generalTourismData.ViviendasTuristicas} />} />
+            <Route path="/ViviendasTuristicasComunidad" element={<MapaViviendaTuristicaComunidades geoData={geoDataComunity} rawData={generalTourismDataCom.ViviendasTuristicas} />} />
+            <Route path="/GroupedBarChart" element={<ExtranjerosHipotecasGroupedChart data={extranjerosHipotecas.ExtranjerosHipotecas} />} />
+            <Route path="/TimeSeriesChart" element={<ExtranjerosHipotecasTimeSeriesChart data={extranjerosHipotecas.ExtranjerosHipotecas} />} />
             <Route 
               path="/" 
               element={ <HomePage />} 

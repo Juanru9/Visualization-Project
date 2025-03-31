@@ -1,6 +1,10 @@
 import React from "react";
 import * as d3 from "d3";
-import { BarChartProps } from "../types";
+import { DataPoint } from "../types";
+
+export interface BarChartProps {
+  data: DataPoint[];
+}
 
 export const BarChart: React.FC<BarChartProps> = ({ data }) => {
   const width = 500;
