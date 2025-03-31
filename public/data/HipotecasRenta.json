@@ -1,0 +1,3552 @@
+{
+    "HipotecasRenta": [{
+            "Año": "2015",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 10612389,
+            "RentaMedia": 8.029000000000000e+003,
+            "Ratio": 1.321757254950803e+003,
+            "Relacion_Normalizada": 5.210000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 10612389,
+            "RentaMedia": 8.489000000000000e+003,
+            "Ratio": 1.250134173636471e+003,
+            "Relacion_Normalizada": 4.920000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 10612389,
+            "RentaMedia": 8.614000000000000e+003,
+            "Ratio": 1.231993150684932e+003,
+            "Relacion_Normalizada": 4.850000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 10612389,
+            "RentaMedia": 8.877000000000000e+003,
+            "Ratio": 1.195492734031767e+003,
+            "Relacion_Normalizada": 4.710000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 10612389,
+            "RentaMedia": 8.401000000000000e+003,
+            "Ratio": 1.263229258421617e+003,
+            "Relacion_Normalizada": 4.970000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 10612389,
+            "RentaMedia": 8.318000000000000e+003,
+            "Ratio": 1.275834214955518e+003,
+            "Relacion_Normalizada": 5.020000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 10612389,
+            "RentaMedia": 8.688000000000000e+003,
+            "Ratio": 1.221499654696133e+003,
+            "Relacion_Normalizada": 4.810000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 10612389,
+            "RentaMedia": 9.051000000000000e+003,
+            "Ratio": 1.172510109380179e+003,
+            "Relacion_Normalizada": 4.620000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 1990740,
+            "RentaMedia": 1.129700000000000e+004,
+            "Ratio": 1.762184650792246e+002,
+            "Relacion_Normalizada": 6.700000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 1990740,
+            "RentaMedia": 1.091100000000000e+004,
+            "Ratio": 1.824525708001100e+002,
+            "Relacion_Normalizada": 7.000000000000001e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 1990740,
+            "RentaMedia": 1.202000000000000e+004,
+            "Ratio": 1.656189683860233e+002,
+            "Relacion_Normalizada": 6.300000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "03 Asturias, Principado de",
+            "Hipotecas_Anual": 1061578,
+            "RentaMedia": 1.195900000000000e+004,
+            "Ratio": 8.876812442511915e+001,
+            "Relacion_Normalizada": 3.300000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 2984734,
+            "RentaMedia": 1.121300000000000e+004,
+            "Ratio": 2.661851422456078e+002,
+            "Relacion_Normalizada": 1.030000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 2984734,
+            "RentaMedia": 1.112800000000000e+004,
+            "Ratio": 2.682183680805176e+002,
+            "Relacion_Normalizada": 1.040000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 2984734,
+            "RentaMedia": 1.123700000000000e+004,
+            "Ratio": 2.656166236540002e+002,
+            "Relacion_Normalizada": 1.030000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 2984734,
+            "RentaMedia": 1.112700000000000e+004,
+            "Ratio": 2.682424732632336e+002,
+            "Relacion_Normalizada": 1.040000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3035418,
+            "RentaMedia": 9.548000000000000e+003,
+            "Ratio": 3.179113950565563e+002,
+            "Relacion_Normalizada": 1.230000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3035418,
+            "RentaMedia": 8.904000000000000e+003,
+            "Ratio": 3.409049865229110e+002,
+            "Relacion_Normalizada": 1.330000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3035418,
+            "RentaMedia": 9.693000000000000e+003,
+            "Ratio": 3.131556793562365e+002,
+            "Relacion_Normalizada": 1.220000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3035418,
+            "RentaMedia": 9.161000000000000e+003,
+            "Ratio": 3.313413382818470e+002,
+            "Relacion_Normalizada": 1.290000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3035418,
+            "RentaMedia": 9.073000000000000e+003,
+            "Ratio": 3.345550534553070e+002,
+            "Relacion_Normalizada": 1.300000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3035418,
+            "RentaMedia": 9.456000000000000e+003,
+            "Ratio": 3.210044416243655e+002,
+            "Relacion_Normalizada": 1.250000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3035418,
+            "RentaMedia": 9.207000000000000e+003,
+            "Ratio": 3.296858911697622e+002,
+            "Relacion_Normalizada": 1.280000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3035418,
+            "RentaMedia": 8.536000000000000e+003,
+            "Ratio": 3.556019212746017e+002,
+            "Relacion_Normalizada": 1.380000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3035418,
+            "RentaMedia": 9.112000000000000e+003,
+            "Ratio": 3.331231343283582e+002,
+            "Relacion_Normalizada": 1.300000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "06 Cantabria",
+            "Hipotecas_Anual": 799560,
+            "RentaMedia": 1.122900000000000e+004,
+            "Ratio": 7.120491584290676e+001,
+            "Relacion_Normalizada": 2.600000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2433383,
+            "RentaMedia": 9.745000000000000e+003,
+            "Ratio": 2.497057978450488e+002,
+            "Relacion_Normalizada": 9.700000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2433383,
+            "RentaMedia": 1.209300000000000e+004,
+            "Ratio": 2.012224427354668e+002,
+            "Relacion_Normalizada": 7.700000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2433383,
+            "RentaMedia": 1.113800000000000e+004,
+            "Ratio": 2.184757586640330e+002,
+            "Relacion_Normalizada": 8.400000000000001e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2433383,
+            "RentaMedia": 1.139200000000000e+004,
+            "Ratio": 2.136045470505618e+002,
+            "Relacion_Normalizada": 8.200000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2433383,
+            "RentaMedia": 1.066700000000000e+004,
+            "Ratio": 2.281225274210181e+002,
+            "Relacion_Normalizada": 8.800000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2433383,
+            "RentaMedia": 1.073000000000000e+004,
+            "Ratio": 2.267831314072693e+002,
+            "Relacion_Normalizada": 8.699999999999999e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2433383,
+            "RentaMedia": 1.167400000000000e+004,
+            "Ratio": 2.084446633544629e+002,
+            "Relacion_Normalizada": 8.000000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2433383,
+            "RentaMedia": 1.168200000000000e+004,
+            "Ratio": 2.083019174798836e+002,
+            "Relacion_Normalizada": 8.000000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2433383,
+            "RentaMedia": 9.859000000000000e+003,
+            "Ratio": 2.468184400040572e+002,
+            "Relacion_Normalizada": 9.500000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 1748727,
+            "RentaMedia": 9.150000000000000e+003,
+            "Ratio": 1.911177049180328e+002,
+            "Relacion_Normalizada": 7.300000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 1748727,
+            "RentaMedia": 8.786000000000000e+003,
+            "Ratio": 1.990356248577282e+002,
+            "Relacion_Normalizada": 7.600000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 1748727,
+            "RentaMedia": 9.009000000000000e+003,
+            "Ratio": 1.941088911088911e+002,
+            "Relacion_Normalizada": 7.500000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 1748727,
+            "RentaMedia": 1.103600000000000e+004,
+            "Ratio": 1.584565965929685e+002,
+            "Relacion_Normalizada": 6.000000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 1748727,
+            "RentaMedia": 8.845000000000000e+003,
+            "Ratio": 1.977079706048615e+002,
+            "Relacion_Normalizada": 7.600000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 12574607,
+            "RentaMedia": 1.285300000000000e+004,
+            "Ratio": 9.783402318524858e+002,
+            "Relacion_Normalizada": 3.850000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 12574607,
+            "RentaMedia": 1.109500000000000e+004,
+            "Ratio": 1.133357999098693e+003,
+            "Relacion_Normalizada": 4.460000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 12574607,
+            "RentaMedia": 1.091400000000000e+004,
+            "Ratio": 1.152153839105736e+003,
+            "Relacion_Normalizada": 4.540000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 12574607,
+            "RentaMedia": 1.081700000000000e+004,
+            "Ratio": 1.162485624479985e+003,
+            "Relacion_Normalizada": 4.580000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 5395480,
+            "RentaMedia": 8.695000000000000e+003,
+            "Ratio": 6.205267395054630e+002,
+            "Relacion_Normalizada": 2.430000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 5395480,
+            "RentaMedia": 1.013600000000000e+004,
+            "Ratio": 5.323086029992107e+002,
+            "Relacion_Normalizada": 2.080000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 5395480,
+            "RentaMedia": 1.037700000000000e+004,
+            "Ratio": 5.199460344993736e+002,
+            "Relacion_Normalizada": 2.030000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "11 Extremadura",
+            "Hipotecas_Anual": 816100,
+            "RentaMedia": 8.448000000000000e+003,
+            "Ratio": 9.660274621212122e+001,
+            "Relacion_Normalizada": 3.600000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "11 Extremadura",
+            "Hipotecas_Anual": 816100,
+            "RentaMedia": 9.081000000000000e+003,
+            "Ratio": 8.986895716330801e+001,
+            "Relacion_Normalizada": 3.300000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2678155,
+            "RentaMedia": 1.102400000000000e+004,
+            "Ratio": 2.429385885341074e+002,
+            "Relacion_Normalizada": 9.400000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2678155,
+            "RentaMedia": 1.028300000000000e+004,
+            "Ratio": 2.604449090732277e+002,
+            "Relacion_Normalizada": 1.010000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2678155,
+            "RentaMedia": 1.018900000000000e+004,
+            "Ratio": 2.628476788693689e+002,
+            "Relacion_Normalizada": 1.020000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2678155,
+            "RentaMedia": 1.015300000000000e+004,
+            "Ratio": 2.637796710331922e+002,
+            "Relacion_Normalizada": 1.020000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "13 Madrid, Comunidad de",
+            "Hipotecas_Anual": 18247951,
+            "RentaMedia": 1.377900000000000e+004,
+            "Ratio": 1.324330575513463e+003,
+            "Relacion_Normalizada": 5.220000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "14 Murcia, Región de",
+            "Hipotecas_Anual": 1481436,
+            "RentaMedia": 8.908000000000000e+003,
+            "Ratio": 1.663039964077234e+002,
+            "Relacion_Normalizada": 6.400000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "15 Navarra, Comunidad Foral de",
+            "Hipotecas_Anual": 1081219
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 4875346
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 4875346,
+            "RentaMedia": 1.394900000000000e+004,
+            "Ratio": 3.495122230984300e+002,
+            "Relacion_Normalizada": 1.360000000000000e-001
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 4875346
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "17 Rioja, La",
+            "Hipotecas_Anual": 337821,
+            "RentaMedia": 1.119100000000000e+004,
+            "Ratio": 3.018684657313913e+001,
+            "Relacion_Normalizada": 1.000000000000000e-002
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "18 Ceuta",
+            "Hipotecas_Anual": 120305,
+            "RentaMedia": 1.069600000000000e+004,
+            "Ratio": 1.124766267763650e+001,
+            "Relacion_Normalizada": 2.000000000000000e-003
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "18 Ceuta",
+            "Hipotecas_Anual": 120305,
+            "RentaMedia": 1.069600000000000e+004,
+            "Ratio": 1.124766267763650e+001,
+            "Relacion_Normalizada": 2.000000000000000e-003
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "19 Melilla",
+            "Hipotecas_Anual": 170839,
+            "RentaMedia": 9.961000000000000e+003,
+            "Ratio": 1.715078807348660e+001,
+            "Relacion_Normalizada": 5.000000000000000e-003
+        }, {
+            "Año": "2015",
+            "Comunidades_Autonomas": "19 Melilla",
+            "Hipotecas_Anual": 170839,
+            "RentaMedia": 9.961000000000000e+003,
+            "Ratio": 1.715078807348660e+001,
+            "Relacion_Normalizada": 5.000000000000000e-003
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 12499521,
+            "RentaMedia": 9.272000000000000e+003,
+            "Ratio": 1.348093291630716e+003,
+            "Relacion_Normalizada": 5.310000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 12499521,
+            "RentaMedia": 8.854000000000000e+003,
+            "Ratio": 1.411737180935171e+003,
+            "Relacion_Normalizada": 5.560000000000001e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 12499521,
+            "RentaMedia": 8.747000000000000e+003,
+            "Ratio": 1.429006630844861e+003,
+            "Relacion_Normalizada": 5.629999999999999e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 12499521,
+            "RentaMedia": 8.585000000000000e+003,
+            "Ratio": 1.455972160745486e+003,
+            "Relacion_Normalizada": 5.740000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 12499521,
+            "RentaMedia": 9.090000000000000e+003,
+            "Ratio": 1.375084818481848e+003,
+            "Relacion_Normalizada": 5.420000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 12499521,
+            "RentaMedia": 8.892000000000000e+003,
+            "Ratio": 1.405704116059379e+003,
+            "Relacion_Normalizada": 5.540000000000001e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 12499521,
+            "RentaMedia": 8.696000000000000e+003,
+            "Ratio": 1.437387419503220e+003,
+            "Relacion_Normalizada": 5.660000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 12499521,
+            "RentaMedia": 8.207000000000000e+003,
+            "Ratio": 1.523031680272938e+003,
+            "Relacion_Normalizada": 6.000000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 2045639,
+            "RentaMedia": 1.200800000000000e+004,
+            "Ratio": 1.703563457694870e+002,
+            "Relacion_Normalizada": 6.500000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 2045639,
+            "RentaMedia": 1.112600000000000e+004,
+            "Ratio": 1.838611360776559e+002,
+            "Relacion_Normalizada": 7.000000000000001e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 2045639,
+            "RentaMedia": 1.147800000000000e+004,
+            "Ratio": 1.782225997560551e+002,
+            "Relacion_Normalizada": 6.800000000000001e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "03 Asturias, Principado de",
+            "Hipotecas_Anual": 1208684,
+            "RentaMedia": 1.214700000000000e+004,
+            "Ratio": 9.950473367909773e+001,
+            "Relacion_Normalizada": 3.700000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 3533513,
+            "RentaMedia": 1.144900000000000e+004,
+            "Ratio": 3.086307101056861e+002,
+            "Relacion_Normalizada": 1.200000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 3533513,
+            "RentaMedia": 1.148700000000000e+004,
+            "Ratio": 3.076097327413598e+002,
+            "Relacion_Normalizada": 1.190000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 3533513,
+            "RentaMedia": 1.151600000000000e+004,
+            "Ratio": 3.068350989927058e+002,
+            "Relacion_Normalizada": 1.190000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 3533513,
+            "RentaMedia": 1.148800000000000e+004,
+            "Ratio": 3.075829561281337e+002,
+            "Relacion_Normalizada": 1.190000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 2956064,
+            "RentaMedia": 9.265000000000000e+003,
+            "Ratio": 3.190570966001079e+002,
+            "Relacion_Normalizada": 1.240000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 2956064,
+            "RentaMedia": 8.849000000000000e+003,
+            "Ratio": 3.340562775454854e+002,
+            "Relacion_Normalizada": 1.300000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 2956064,
+            "RentaMedia": 9.397000000000000e+003,
+            "Ratio": 3.145752899861658e+002,
+            "Relacion_Normalizada": 1.220000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 2956064,
+            "RentaMedia": 9.494000000000000e+003,
+            "Ratio": 3.113612808089320e+002,
+            "Relacion_Normalizada": 1.210000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 2956064,
+            "RentaMedia": 9.238000000000000e+003,
+            "Ratio": 3.199896081402901e+002,
+            "Relacion_Normalizada": 1.240000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 2956064,
+            "RentaMedia": 9.411000000000000e+003,
+            "Ratio": 3.141073212198491e+002,
+            "Relacion_Normalizada": 1.220000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 2956064,
+            "RentaMedia": 9.960000000000000e+003,
+            "Ratio": 2.967935742971887e+002,
+            "Relacion_Normalizada": 1.150000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 2956064,
+            "RentaMedia": 9.068000000000000e+003,
+            "Ratio": 3.259885310983679e+002,
+            "Relacion_Normalizada": 1.270000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 2956064,
+            "RentaMedia": 9.799000000000000e+003,
+            "Ratio": 3.016699663230942e+002,
+            "Relacion_Normalizada": 1.170000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "06 Cantabria",
+            "Hipotecas_Anual": 822251,
+            "RentaMedia": 1.150300000000000e+004,
+            "Ratio": 7.148143962444580e+001,
+            "Relacion_Normalizada": 2.600000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2708465,
+            "RentaMedia": 1.010200000000000e+004,
+            "Ratio": 2.681117600475154e+002,
+            "Relacion_Normalizada": 1.040000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2708465,
+            "RentaMedia": 1.205000000000000e+004,
+            "Ratio": 2.247688796680498e+002,
+            "Relacion_Normalizada": 8.699999999999999e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2708465,
+            "RentaMedia": 1.196100000000000e+004,
+            "Ratio": 2.264413510576039e+002,
+            "Relacion_Normalizada": 8.699999999999999e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2708465,
+            "RentaMedia": 1.102500000000000e+004,
+            "Ratio": 2.456657596371882e+002,
+            "Relacion_Normalizada": 9.500000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2708465,
+            "RentaMedia": 1.092600000000000e+004,
+            "Ratio": 2.478917261577888e+002,
+            "Relacion_Normalizada": 9.600000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2708465,
+            "RentaMedia": 1.175200000000000e+004,
+            "Ratio": 2.304684309053778e+002,
+            "Relacion_Normalizada": 8.900000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2708465,
+            "RentaMedia": 1.135000000000000e+004,
+            "Ratio": 2.386312775330397e+002,
+            "Relacion_Normalizada": 9.200000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2708465,
+            "RentaMedia": 1.237500000000000e+004,
+            "Ratio": 2.188658585858586e+002,
+            "Relacion_Normalizada": 8.400000000000001e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2708465,
+            "RentaMedia": 9.925000000000000e+003,
+            "Ratio": 2.728931989924433e+002,
+            "Relacion_Normalizada": 1.060000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2192266,
+            "RentaMedia": 9.085000000000000e+003,
+            "Ratio": 2.413061089708311e+002,
+            "Relacion_Normalizada": 9.300000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2192266,
+            "RentaMedia": 1.121200000000000e+004,
+            "Ratio": 1.955285408490903e+002,
+            "Relacion_Normalizada": 7.500000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2192266,
+            "RentaMedia": 9.224000000000000e+003,
+            "Ratio": 2.376697745013010e+002,
+            "Relacion_Normalizada": 9.200000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2192266,
+            "RentaMedia": 9.056000000000000e+003,
+            "Ratio": 2.420788427561838e+002,
+            "Relacion_Normalizada": 9.300000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2192266,
+            "RentaMedia": 9.446000000000000e+003,
+            "Ratio": 2.320840567435952e+002,
+            "Relacion_Normalizada": 9.000000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 15187308,
+            "RentaMedia": 1.111900000000000e+004,
+            "Ratio": 1.365887939562910e+003,
+            "Relacion_Normalizada": 5.380000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 15187308,
+            "RentaMedia": 1.120800000000000e+004,
+            "Ratio": 1.355041755888651e+003,
+            "Relacion_Normalizada": 5.340000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 15187308,
+            "RentaMedia": 1.140900000000000e+004,
+            "Ratio": 1.331169077044439e+003,
+            "Relacion_Normalizada": 5.240000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 15187308,
+            "RentaMedia": 1.325600000000000e+004,
+            "Ratio": 1.145693120096560e+003,
+            "Relacion_Normalizada": 4.510000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 6142453,
+            "RentaMedia": 1.064100000000000e+004,
+            "Ratio": 5.772439620336435e+002,
+            "Relacion_Normalizada": 2.260000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 6142453,
+            "RentaMedia": 1.050400000000000e+004,
+            "Ratio": 5.847727532368622e+002,
+            "Relacion_Normalizada": 2.290000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 6142453,
+            "RentaMedia": 8.814000000000000e+003,
+            "Ratio": 6.968973224415703e+002,
+            "Relacion_Normalizada": 2.730000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "11 Extremadura",
+            "Hipotecas_Anual": 923719,
+            "RentaMedia": 9.247000000000000e+003,
+            "Ratio": 9.989391153887748e+001,
+            "Relacion_Normalizada": 3.700000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "11 Extremadura",
+            "Hipotecas_Anual": 923719,
+            "RentaMedia": 8.643000000000000e+003,
+            "Ratio": 1.068748119865787e+002,
+            "Relacion_Normalizada": 4.000000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2419216,
+            "RentaMedia": 1.035300000000000e+004,
+            "Ratio": 2.336729450400850e+002,
+            "Relacion_Normalizada": 9.000000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2419216,
+            "RentaMedia": 1.041500000000000e+004,
+            "Ratio": 2.322819011041767e+002,
+            "Relacion_Normalizada": 9.000000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2419216,
+            "RentaMedia": 1.054100000000000e+004,
+            "Ratio": 2.295053600227682e+002,
+            "Relacion_Normalizada": 8.900000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2419216,
+            "RentaMedia": 1.138300000000000e+004,
+            "Ratio": 2.125288588245630e+002,
+            "Relacion_Normalizada": 8.200000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "13 Madrid, Comunidad de",
+            "Hipotecas_Anual": 20545435,
+            "RentaMedia": 1.410400000000000e+004,
+            "Ratio": 1.456709798638684e+003,
+            "Relacion_Normalizada": 5.740000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "14 Murcia, Región de",
+            "Hipotecas_Anual": 1474845,
+            "RentaMedia": 9.124000000000000e+003,
+            "Ratio": 1.616445637878124e+002,
+            "Relacion_Normalizada": 6.200000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "15 Navarra, Comunidad Foral de",
+            "Hipotecas_Anual": 1205558
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 5407422,
+            "RentaMedia": 1.509000000000000e+004,
+            "Ratio": 3.583447316103380e+002,
+            "Relacion_Normalizada": 1.390000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 5407422,
+            "RentaMedia": 1.421600000000000e+004,
+            "Ratio": 3.803757737760270e+002,
+            "Relacion_Normalizada": 1.480000000000000e-001
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 5407422
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "17 Rioja, La",
+            "Hipotecas_Anual": 389593,
+            "RentaMedia": 1.153600000000000e+004,
+            "Ratio": 3.377193134535368e+001,
+            "Relacion_Normalizada": 1.100000000000000e-002
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "18 Ceuta",
+            "Hipotecas_Anual": 99268,
+            "RentaMedia": 1.069600000000000e+004,
+            "Ratio": 9.280852655198205e+000,
+            "Relacion_Normalizada": 1.000000000000000e-003
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "18 Ceuta",
+            "Hipotecas_Anual": 99268,
+            "RentaMedia": 1.069600000000000e+004,
+            "Ratio": 9.280852655198205e+000,
+            "Relacion_Normalizada": 1.000000000000000e-003
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "19 Melilla",
+            "Hipotecas_Anual": 120449,
+            "RentaMedia": 1.017600000000000e+004,
+            "Ratio": 1.183657625786164e+001,
+            "Relacion_Normalizada": 2.000000000000000e-003
+        }, {
+            "Año": "2016",
+            "Comunidades_Autonomas": "19 Melilla",
+            "Hipotecas_Anual": 120449,
+            "RentaMedia": 1.017600000000000e+004,
+            "Ratio": 1.183657625786164e+001,
+            "Relacion_Normalizada": 2.000000000000000e-003
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 14707658,
+            "RentaMedia": 9.028000000000000e+003,
+            "Ratio": 1.629115861763403e+003,
+            "Relacion_Normalizada": 6.420000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 14707658,
+            "RentaMedia": 8.569000000000000e+003,
+            "Ratio": 1.716379740926596e+003,
+            "Relacion_Normalizada": 6.770000000000001e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 14707658,
+            "RentaMedia": 9.290000000000000e+003,
+            "Ratio": 1.583170936490850e+003,
+            "Relacion_Normalizada": 6.240000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 14707658,
+            "RentaMedia": 9.440000000000000e+003,
+            "Ratio": 1.558014618644068e+003,
+            "Relacion_Normalizada": 6.140000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 14707658,
+            "RentaMedia": 8.948000000000000e+003,
+            "Ratio": 1.643681046043809e+003,
+            "Relacion_Normalizada": 6.480000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 14707658,
+            "RentaMedia": 9.044000000000000e+003,
+            "Ratio": 1.626233746130031e+003,
+            "Relacion_Normalizada": 6.410000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 14707658,
+            "RentaMedia": 9.313000000000000e+003,
+            "Ratio": 1.579261032964673e+003,
+            "Relacion_Normalizada": 6.230000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 14707658,
+            "RentaMedia": 9.584000000000000e+003,
+            "Ratio": 1.534605383973289e+003,
+            "Relacion_Normalizada": 6.050000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 2147102,
+            "RentaMedia": 1.195400000000000e+004,
+            "Ratio": 1.796136857955496e+002,
+            "Relacion_Normalizada": 6.900000000000001e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 2147102,
+            "RentaMedia": 1.143200000000000e+004,
+            "Ratio": 1.878150804758572e+002,
+            "Relacion_Normalizada": 7.200000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 2147102,
+            "RentaMedia": 1.259200000000000e+004,
+            "Ratio": 1.705131829733164e+002,
+            "Relacion_Normalizada": 6.500000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "03 Asturias, Principado de",
+            "Hipotecas_Anual": 1468759,
+            "RentaMedia": 1.248900000000000e+004,
+            "Ratio": 1.176042117063015e+002,
+            "Relacion_Normalizada": 4.400000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4228235,
+            "RentaMedia": 1.229700000000000e+004,
+            "Ratio": 3.438428071887452e+002,
+            "Relacion_Normalizada": 1.340000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4228235,
+            "RentaMedia": 1.254300000000000e+004,
+            "Ratio": 3.370991788248426e+002,
+            "Relacion_Normalizada": 1.310000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4228235,
+            "RentaMedia": 1.227000000000000e+004,
+            "Ratio": 3.445994295028525e+002,
+            "Relacion_Normalizada": 1.340000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4228235,
+            "RentaMedia": 1.213800000000000e+004,
+            "Ratio": 3.483469270060966e+002,
+            "Relacion_Normalizada": 1.360000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3336420,
+            "RentaMedia": 1.032800000000000e+004,
+            "Ratio": 3.230460883036406e+002,
+            "Relacion_Normalizada": 1.260000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3336420,
+            "RentaMedia": 9.648000000000000e+003,
+            "Ratio": 3.458146766169155e+002,
+            "Relacion_Normalizada": 1.350000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3336420,
+            "RentaMedia": 1.048400000000000e+004,
+            "Ratio": 3.182392216711179e+002,
+            "Relacion_Normalizada": 1.240000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3336420,
+            "RentaMedia": 9.938000000000000e+003,
+            "Ratio": 3.357234856107869e+002,
+            "Relacion_Normalizada": 1.310000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3336420,
+            "RentaMedia": 9.738000000000000e+003,
+            "Ratio": 3.426186075169439e+002,
+            "Relacion_Normalizada": 1.330000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3336420,
+            "RentaMedia": 1.001400000000000e+004,
+            "Ratio": 3.331755542240863e+002,
+            "Relacion_Normalizada": 1.300000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3336420,
+            "RentaMedia": 9.866000000000000e+003,
+            "Ratio": 3.381735252381918e+002,
+            "Relacion_Normalizada": 1.320000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3336420,
+            "RentaMedia": 9.378000000000000e+003,
+            "Ratio": 3.557709532949456e+002,
+            "Relacion_Normalizada": 1.380000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3336420,
+            "RentaMedia": 9.763000000000000e+003,
+            "Ratio": 3.417412680528526e+002,
+            "Relacion_Normalizada": 1.330000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "06 Cantabria",
+            "Hipotecas_Anual": 868283,
+            "RentaMedia": 1.187400000000000e+004,
+            "Ratio": 7.312472629274045e+001,
+            "Relacion_Normalizada": 2.700000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2769100,
+            "RentaMedia": 1.029100000000000e+004,
+            "Ratio": 2.690797784471869e+002,
+            "Relacion_Normalizada": 1.040000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2769100,
+            "RentaMedia": 1.270100000000000e+004,
+            "Ratio": 2.180222029761436e+002,
+            "Relacion_Normalizada": 8.400000000000001e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2769100,
+            "RentaMedia": 1.170200000000000e+004,
+            "Ratio": 2.366347632883268e+002,
+            "Relacion_Normalizada": 9.100000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2769100,
+            "RentaMedia": 1.202400000000000e+004,
+            "Ratio": 2.302977378576181e+002,
+            "Relacion_Normalizada": 8.900000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2769100,
+            "RentaMedia": 1.127800000000000e+004,
+            "Ratio": 2.455311225394574e+002,
+            "Relacion_Normalizada": 9.500000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2769100,
+            "RentaMedia": 1.137800000000000e+004,
+            "Ratio": 2.433731763051503e+002,
+            "Relacion_Normalizada": 9.400000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2769100,
+            "RentaMedia": 1.237700000000000e+004,
+            "Ratio": 2.237294982629070e+002,
+            "Relacion_Normalizada": 8.599999999999999e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2769100,
+            "RentaMedia": 1.239600000000000e+004,
+            "Ratio": 2.233865763149403e+002,
+            "Relacion_Normalizada": 8.599999999999999e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 2769100,
+            "RentaMedia": 1.043100000000000e+004,
+            "Ratio": 2.654683155977375e+002,
+            "Relacion_Normalizada": 1.030000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2474438,
+            "RentaMedia": 9.847000000000000e+003,
+            "Ratio": 2.512885142683051e+002,
+            "Relacion_Normalizada": 9.700000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2474438,
+            "RentaMedia": 9.482000000000000e+003,
+            "Ratio": 2.609616114743725e+002,
+            "Relacion_Normalizada": 1.010000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2474438,
+            "RentaMedia": 9.722000000000000e+003,
+            "Ratio": 2.545194404443530e+002,
+            "Relacion_Normalizada": 9.800000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2474438,
+            "RentaMedia": 1.160000000000000e+004,
+            "Ratio": 2.133136206896552e+002,
+            "Relacion_Normalizada": 8.200000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2474438,
+            "RentaMedia": 9.512000000000000e+003,
+            "Ratio": 2.601385618166527e+002,
+            "Relacion_Normalizada": 1.010000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 17736270,
+            "RentaMedia": 1.362200000000000e+004,
+            "Ratio": 1.302031272940831e+003,
+            "Relacion_Normalizada": 5.130000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 17736270,
+            "RentaMedia": 1.184100000000000e+004,
+            "Ratio": 1.497869267798328e+003,
+            "Relacion_Normalizada": 5.900000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 17736270,
+            "RentaMedia": 1.162400000000000e+004,
+            "Ratio": 1.525831899518238e+003,
+            "Relacion_Normalizada": 6.010000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 17736270,
+            "RentaMedia": 1.150600000000000e+004,
+            "Ratio": 1.541480097340518e+003,
+            "Relacion_Normalizada": 6.080000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 7118952,
+            "RentaMedia": 9.313000000000000e+003,
+            "Ratio": 7.644101793192311e+002,
+            "Relacion_Normalizada": 3.000000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 7118952,
+            "RentaMedia": 1.095800000000000e+004,
+            "Ratio": 6.496579667822596e+002,
+            "Relacion_Normalizada": 2.550000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 7118952,
+            "RentaMedia": 1.104100000000000e+004,
+            "Ratio": 6.447742052350330e+002,
+            "Relacion_Normalizada": 2.530000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "11 Extremadura",
+            "Hipotecas_Anual": 949975,
+            "RentaMedia": 8.971000000000000e+003,
+            "Ratio": 1.058939917511983e+002,
+            "Relacion_Normalizada": 4.000000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "11 Extremadura",
+            "Hipotecas_Anual": 949975,
+            "RentaMedia": 9.544000000000000e+003,
+            "Ratio": 9.953635792120704e+001,
+            "Relacion_Normalizada": 3.700000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2698056,
+            "RentaMedia": 1.170600000000000e+004,
+            "Ratio": 2.304848795489493e+002,
+            "Relacion_Normalizada": 8.900000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2698056,
+            "RentaMedia": 1.087800000000000e+004,
+            "Ratio": 2.480286817429675e+002,
+            "Relacion_Normalizada": 9.600000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2698056,
+            "RentaMedia": 1.072900000000000e+004,
+            "Ratio": 2.514732034672383e+002,
+            "Relacion_Normalizada": 9.700000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2698056,
+            "RentaMedia": 1.072600000000000e+004,
+            "Ratio": 2.515435390639567e+002,
+            "Relacion_Normalizada": 9.700000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "13 Madrid, Comunidad de",
+            "Hipotecas_Anual": 25737057,
+            "RentaMedia": 1.446100000000000e+004,
+            "Ratio": 1.779756379226886e+003,
+            "Relacion_Normalizada": 7.020000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "14 Murcia, Región de",
+            "Hipotecas_Anual": 1485560,
+            "RentaMedia": 9.518000000000000e+003,
+            "Ratio": 1.560790081949990e+002,
+            "Relacion_Normalizada": 5.900000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "15 Navarra, Comunidad Foral de",
+            "Hipotecas_Anual": 1166422
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 5787937
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 5787937,
+            "RentaMedia": 1.460500000000000e+004,
+            "Ratio": 3.962983224922971e+002,
+            "Relacion_Normalizada": 1.550000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 5787937,
+            "RentaMedia": 1.537200000000000e+004,
+            "Ratio": 3.765246552172782e+002,
+            "Relacion_Normalizada": 1.470000000000000e-001
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "17 Rioja, La",
+            "Hipotecas_Anual": 441147,
+            "RentaMedia": 1.191400000000000e+004,
+            "Ratio": 3.702761457109283e+001,
+            "Relacion_Normalizada": 1.200000000000000e-002
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "18 Ceuta",
+            "Hipotecas_Anual": 107740,
+            "RentaMedia": 1.076700000000000e+004,
+            "Ratio": 1.000650134670753e+001,
+            "Relacion_Normalizada": 2.000000000000000e-003
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "18 Ceuta",
+            "Hipotecas_Anual": 107740,
+            "RentaMedia": 1.076700000000000e+004,
+            "Ratio": 1.000650134670753e+001,
+            "Relacion_Normalizada": 2.000000000000000e-003
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "19 Melilla",
+            "Hipotecas_Anual": 127693,
+            "RentaMedia": 1.031400000000000e+004,
+            "Ratio": 1.238055070777584e+001,
+            "Relacion_Normalizada": 3.000000000000000e-003
+        }, {
+            "Año": "2017",
+            "Comunidades_Autonomas": "19 Melilla",
+            "Hipotecas_Anual": 127693,
+            "RentaMedia": 1.031400000000000e+004,
+            "Ratio": 1.238055070777584e+001,
+            "Relacion_Normalizada": 3.000000000000000e-003
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 17311410,
+            "RentaMedia": 1.008300000000000e+004,
+            "Ratio": 1.716890806307647e+003,
+            "Relacion_Normalizada": 6.770000000000001e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 17311410,
+            "RentaMedia": 9.832000000000000e+003,
+            "Ratio": 1.760721114727421e+003,
+            "Relacion_Normalizada": 6.940000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 17311410,
+            "RentaMedia": 9.417000000000000e+003,
+            "Ratio": 1.838314749920357e+003,
+            "Relacion_Normalizada": 7.250000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 17311410,
+            "RentaMedia": 9.416000000000000e+003,
+            "Ratio": 1.838509983007647e+003,
+            "Relacion_Normalizada": 7.250000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 17311410,
+            "RentaMedia": 9.885000000000000e+003,
+            "Ratio": 1.751280728376328e+003,
+            "Relacion_Normalizada": 6.910000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 17311410,
+            "RentaMedia": 9.710000000000000e+003,
+            "Ratio": 1.782843460350154e+003,
+            "Relacion_Normalizada": 7.030000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 17311410,
+            "RentaMedia": 9.072000000000000e+003,
+            "Ratio": 1.908224206349206e+003,
+            "Relacion_Normalizada": 7.530000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 17311410,
+            "RentaMedia": 9.509000000000000e+003,
+            "Ratio": 1.820528972552319e+003,
+            "Relacion_Normalizada": 7.180000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 2593630,
+            "RentaMedia": 1.306300000000000e+004,
+            "Ratio": 1.985478067825155e+002,
+            "Relacion_Normalizada": 7.600000000000000e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 2593630,
+            "RentaMedia": 1.199100000000000e+004,
+            "Ratio": 2.162980568759903e+002,
+            "Relacion_Normalizada": 8.300000000000000e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 2593630,
+            "RentaMedia": 1.251300000000000e+004,
+            "Ratio": 2.072748341724606e+002,
+            "Relacion_Normalizada": 8.000000000000000e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "03 Asturias, Principado de",
+            "Hipotecas_Anual": 1596240,
+            "RentaMedia": 1.292300000000000e+004,
+            "Ratio": 1.235193066625397e+002,
+            "Relacion_Normalizada": 4.700000000000000e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4936584,
+            "RentaMedia": 1.267200000000000e+004,
+            "Ratio": 3.895662878787879e+002,
+            "Relacion_Normalizada": 1.520000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4936584,
+            "RentaMedia": 1.289900000000000e+004,
+            "Ratio": 3.827105977207535e+002,
+            "Relacion_Normalizada": 1.490000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4936584,
+            "RentaMedia": 1.298500000000000e+004,
+            "Ratio": 3.801758952637659e+002,
+            "Relacion_Normalizada": 1.480000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4936584,
+            "RentaMedia": 1.289300000000000e+004,
+            "Ratio": 3.828886992941906e+002,
+            "Relacion_Normalizada": 1.490000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3355681,
+            "RentaMedia": 1.025500000000000e+004,
+            "Ratio": 3.272238907849829e+002,
+            "Relacion_Normalizada": 1.270000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3355681,
+            "RentaMedia": 9.867000000000000e+003,
+            "Ratio": 3.400913144826188e+002,
+            "Relacion_Normalizada": 1.320000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3355681,
+            "RentaMedia": 1.037700000000000e+004,
+            "Ratio": 3.233767948347307e+002,
+            "Relacion_Normalizada": 1.260000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3355681,
+            "RentaMedia": 1.063600000000000e+004,
+            "Ratio": 3.155021624670929e+002,
+            "Relacion_Normalizada": 1.230000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3355681,
+            "RentaMedia": 1.023300000000000e+004,
+            "Ratio": 3.279273917717189e+002,
+            "Relacion_Normalizada": 1.270000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3355681,
+            "RentaMedia": 1.049300000000000e+004,
+            "Ratio": 3.198018679119413e+002,
+            "Relacion_Normalizada": 1.240000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3355681,
+            "RentaMedia": 1.102600000000000e+004,
+            "Ratio": 3.043425539633593e+002,
+            "Relacion_Normalizada": 1.180000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3355681,
+            "RentaMedia": 1.011200000000000e+004,
+            "Ratio": 3.318513647151899e+002,
+            "Relacion_Normalizada": 1.290000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3355681,
+            "RentaMedia": 1.086200000000000e+004,
+            "Ratio": 3.089376726201436e+002,
+            "Relacion_Normalizada": 1.200000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "06 Cantabria",
+            "Hipotecas_Anual": 1002370,
+            "RentaMedia": 1.238900000000000e+004,
+            "Ratio": 8.090806360481072e+001,
+            "Relacion_Normalizada": 3.000000000000000e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3101477,
+            "RentaMedia": 1.097100000000000e+004,
+            "Ratio": 2.826977486099718e+002,
+            "Relacion_Normalizada": 1.100000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3101477,
+            "RentaMedia": 1.290500000000000e+004,
+            "Ratio": 2.403314219294847e+002,
+            "Relacion_Normalizada": 9.300000000000000e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3101477,
+            "RentaMedia": 1.290700000000000e+004,
+            "Ratio": 2.402941814519253e+002,
+            "Relacion_Normalizada": 9.300000000000000e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3101477,
+            "RentaMedia": 1.192200000000000e+004,
+            "Ratio": 2.601473746015769e+002,
+            "Relacion_Normalizada": 1.010000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3101477,
+            "RentaMedia": 1.176200000000000e+004,
+            "Ratio": 2.636861928243496e+002,
+            "Relacion_Normalizada": 1.020000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3101477,
+            "RentaMedia": 1.252500000000000e+004,
+            "Ratio": 2.476229141716567e+002,
+            "Relacion_Normalizada": 9.600000000000000e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3101477,
+            "RentaMedia": 1.222200000000000e+004,
+            "Ratio": 2.537618229422353e+002,
+            "Relacion_Normalizada": 9.800000000000000e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3101477,
+            "RentaMedia": 1.331600000000000e+004,
+            "Ratio": 2.329135626314209e+002,
+            "Relacion_Normalizada": 9.000000000000000e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3101477,
+            "RentaMedia": 1.082200000000000e+004,
+            "Ratio": 2.865900018480872e+002,
+            "Relacion_Normalizada": 1.110000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2794240,
+            "RentaMedia": 9.955000000000000e+003,
+            "Ratio": 2.806870919136113e+002,
+            "Relacion_Normalizada": 1.090000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2794240,
+            "RentaMedia": 1.208300000000000e+004,
+            "Ratio": 2.312538276917984e+002,
+            "Relacion_Normalizada": 8.900000000000000e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2794240,
+            "RentaMedia": 1.021200000000000e+004,
+            "Ratio": 2.736231884057971e+002,
+            "Relacion_Normalizada": 1.060000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2794240,
+            "RentaMedia": 1.000100000000000e+004,
+            "Ratio": 2.793960603939606e+002,
+            "Relacion_Normalizada": 1.080000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2794240,
+            "RentaMedia": 1.035100000000000e+004,
+            "Ratio": 2.699487972176601e+002,
+            "Relacion_Normalizada": 1.050000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 20788956,
+            "RentaMedia": 1.201100000000000e+004,
+            "Ratio": 1.730826409124969e+003,
+            "Relacion_Normalizada": 6.820000000000001e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 20788956,
+            "RentaMedia": 1.212400000000000e+004,
+            "Ratio": 1.714694490267239e+003,
+            "Relacion_Normalizada": 6.760000000000001e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 20788956,
+            "RentaMedia": 1.235500000000000e+004,
+            "Ratio": 1.682635046539863e+003,
+            "Relacion_Normalizada": 6.630000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 20788956,
+            "RentaMedia": 1.419800000000000e+004,
+            "Ratio": 1.464217213692069e+003,
+            "Relacion_Normalizada": 5.770000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 8849100,
+            "RentaMedia": 1.163400000000000e+004,
+            "Ratio": 7.606240330067045e+002,
+            "Relacion_Normalizada": 2.990000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 8849100,
+            "RentaMedia": 1.146100000000000e+004,
+            "Ratio": 7.721054009248757e+002,
+            "Relacion_Normalizada": 3.030000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 8849100,
+            "RentaMedia": 9.736000000000000e+003,
+            "Ratio": 9.089050944946590e+002,
+            "Relacion_Normalizada": 3.570000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "11 Extremadura",
+            "Hipotecas_Anual": 1043802,
+            "RentaMedia": 1.000900000000000e+004,
+            "Ratio": 1.042863422919373e+002,
+            "Relacion_Normalizada": 3.900000000000000e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "11 Extremadura",
+            "Hipotecas_Anual": 1043802,
+            "RentaMedia": 9.417000000000000e+003,
+            "Ratio": 1.108423064670277e+002,
+            "Relacion_Normalizada": 4.200000000000000e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2751606,
+            "RentaMedia": 1.122000000000000e+004,
+            "Ratio": 2.452411764705882e+002,
+            "Relacion_Normalizada": 9.500000000000000e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2751606,
+            "RentaMedia": 1.123000000000000e+004,
+            "Ratio": 2.450227960819234e+002,
+            "Relacion_Normalizada": 9.500000000000000e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2751606,
+            "RentaMedia": 1.133500000000000e+004,
+            "Ratio": 2.427530657256286e+002,
+            "Relacion_Normalizada": 9.400000000000000e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2751606,
+            "RentaMedia": 1.220700000000000e+004,
+            "Ratio": 2.254121405750799e+002,
+            "Relacion_Normalizada": 8.699999999999999e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "13 Madrid, Comunidad de",
+            "Hipotecas_Anual": 29911247,
+            "RentaMedia": 1.515300000000000e+004,
+            "Ratio": 1.973948855012209e+003,
+            "Relacion_Normalizada": 7.790000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "14 Murcia, Región de",
+            "Hipotecas_Anual": 1676422,
+            "RentaMedia": 9.948000000000000e+003,
+            "Ratio": 1.685184961801367e+002,
+            "Relacion_Normalizada": 6.400000000000000e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "15 Navarra, Comunidad Foral de",
+            "Hipotecas_Anual": 1334750
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 6588807,
+            "RentaMedia": 1.589100000000000e+004,
+            "Ratio": 4.146250707947895e+002,
+            "Relacion_Normalizada": 1.620000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 6588807,
+            "RentaMedia": 1.504700000000000e+004,
+            "Ratio": 4.378817704525819e+002,
+            "Relacion_Normalizada": 1.710000000000000e-001
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 6588807
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "17 Rioja, La",
+            "Hipotecas_Anual": 528106,
+            "RentaMedia": 1.246000000000000e+004,
+            "Ratio": 4.238410914927769e+001,
+            "Relacion_Normalizada": 1.400000000000000e-002
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "18 Ceuta",
+            "Hipotecas_Anual": 88015,
+            "RentaMedia": 1.144800000000000e+004,
+            "Ratio": 7.688242487770790e+000,
+            "Relacion_Normalizada": 1.000000000000000e-003
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "18 Ceuta",
+            "Hipotecas_Anual": 88015,
+            "RentaMedia": 1.144800000000000e+004,
+            "Ratio": 7.688242487770790e+000,
+            "Relacion_Normalizada": 1.000000000000000e-003
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "19 Melilla",
+            "Hipotecas_Anual": 158865,
+            "RentaMedia": 1.092500000000000e+004,
+            "Ratio": 1.454141876430206e+001,
+            "Relacion_Normalizada": 3.000000000000000e-003
+        }, {
+            "Año": "2018",
+            "Comunidades_Autonomas": "19 Melilla",
+            "Hipotecas_Anual": 158865,
+            "RentaMedia": 1.092500000000000e+004,
+            "Ratio": 1.454141876430206e+001,
+            "Relacion_Normalizada": 3.000000000000000e-003
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 18773339,
+            "RentaMedia": 1.005500000000000e+004,
+            "Ratio": 1.867065042267529e+003,
+            "Relacion_Normalizada": 7.360000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 18773339,
+            "RentaMedia": 9.436000000000000e+003,
+            "Ratio": 1.989544192454430e+003,
+            "Relacion_Normalizada": 7.850000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 18773339,
+            "RentaMedia": 1.018200000000000e+004,
+            "Ratio": 1.843777155765076e+003,
+            "Relacion_Normalizada": 7.270000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 18773339,
+            "RentaMedia": 1.038000000000000e+004,
+            "Ratio": 1.808606840077071e+003,
+            "Relacion_Normalizada": 7.130000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 18773339,
+            "RentaMedia": 9.958000000000000e+003,
+            "Ratio": 1.885251958224543e+003,
+            "Relacion_Normalizada": 7.440000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 18773339,
+            "RentaMedia": 9.758000000000000e+003,
+            "Ratio": 1.923892088542734e+003,
+            "Relacion_Normalizada": 7.590000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 18773339,
+            "RentaMedia": 1.033800000000000e+004,
+            "Ratio": 1.815954633391372e+003,
+            "Relacion_Normalizada": 7.160000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 18773339,
+            "RentaMedia": 1.060400000000000e+004,
+            "Ratio": 1.770401640890230e+003,
+            "Relacion_Normalizada": 6.980000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 2555181,
+            "RentaMedia": 1.294900000000000e+004,
+            "Ratio": 1.973265116997451e+002,
+            "Relacion_Normalizada": 7.600000000000000e-002
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 2555181,
+            "RentaMedia": 1.246100000000000e+004,
+            "Ratio": 2.050542492576840e+002,
+            "Relacion_Normalizada": 7.900000000000000e-002
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 2555181,
+            "RentaMedia": 1.351600000000000e+004,
+            "Ratio": 1.890486090559337e+002,
+            "Relacion_Normalizada": 7.300000000000000e-002
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "03 Asturias, Principado de",
+            "Hipotecas_Anual": 1538105,
+            "RentaMedia": 1.346500000000000e+004,
+            "Ratio": 1.142298551800966e+002,
+            "Relacion_Normalizada": 4.300000000000000e-002
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4563563,
+            "RentaMedia": 1.342800000000000e+004,
+            "Ratio": 3.398542597557343e+002,
+            "Relacion_Normalizada": 1.320000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4563563,
+            "RentaMedia": 1.378400000000000e+004,
+            "Ratio": 3.310768282066164e+002,
+            "Relacion_Normalizada": 1.290000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4563563,
+            "RentaMedia": 1.338200000000000e+004,
+            "Ratio": 3.410224929009117e+002,
+            "Relacion_Normalizada": 1.330000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4563563,
+            "RentaMedia": 1.326200000000000e+004,
+            "Ratio": 3.441082038908158e+002,
+            "Relacion_Normalizada": 1.340000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4185795,
+            "RentaMedia": 1.133600000000000e+004,
+            "Ratio": 3.692479710656316e+002,
+            "Relacion_Normalizada": 1.440000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4185795,
+            "RentaMedia": 1.041900000000000e+004,
+            "Ratio": 4.017463288223438e+002,
+            "Relacion_Normalizada": 1.570000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4185795,
+            "RentaMedia": 1.153100000000000e+004,
+            "Ratio": 3.630036423553898e+002,
+            "Relacion_Normalizada": 1.410000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4185795,
+            "RentaMedia": 1.094300000000000e+004,
+            "Ratio": 3.825089098053550e+002,
+            "Relacion_Normalizada": 1.490000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4185795,
+            "RentaMedia": 1.077000000000000e+004,
+            "Ratio": 3.886532033426184e+002,
+            "Relacion_Normalizada": 1.510000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4185795,
+            "RentaMedia": 1.116900000000000e+004,
+            "Ratio": 3.747690034918077e+002,
+            "Relacion_Normalizada": 1.460000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4185795,
+            "RentaMedia": 1.101200000000000e+004,
+            "Ratio": 3.801121503814021e+002,
+            "Relacion_Normalizada": 1.480000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4185795,
+            "RentaMedia": 1.031600000000000e+004,
+            "Ratio": 4.057575610701823e+002,
+            "Relacion_Normalizada": 1.580000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4185795,
+            "RentaMedia": 1.079900000000000e+004,
+            "Ratio": 3.876095008797111e+002,
+            "Relacion_Normalizada": 1.510000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "06 Cantabria",
+            "Hipotecas_Anual": 1027778,
+            "RentaMedia": 1.285200000000000e+004,
+            "Ratio": 7.997027699968876e+001,
+            "Relacion_Normalizada": 2.900000000000000e-002
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3316389,
+            "RentaMedia": 1.132200000000000e+004,
+            "Ratio": 2.929154742978273e+002,
+            "Relacion_Normalizada": 1.140000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3316389,
+            "RentaMedia": 1.371300000000000e+004,
+            "Ratio": 2.418427040035003e+002,
+            "Relacion_Normalizada": 9.300000000000000e-002
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3316389,
+            "RentaMedia": 1.275500000000000e+004,
+            "Ratio": 2.600069776558212e+002,
+            "Relacion_Normalizada": 1.010000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3316389,
+            "RentaMedia": 1.301000000000000e+004,
+            "Ratio": 2.549107609531130e+002,
+            "Relacion_Normalizada": 9.900000000000001e-002
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3316389,
+            "RentaMedia": 1.224000000000000e+004,
+            "Ratio": 2.709468137254902e+002,
+            "Relacion_Normalizada": 1.050000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3316389,
+            "RentaMedia": 1.248200000000000e+004,
+            "Ratio": 2.656937189552957e+002,
+            "Relacion_Normalizada": 1.030000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3316389,
+            "RentaMedia": 1.335300000000000e+004,
+            "Ratio": 2.483628398112784e+002,
+            "Relacion_Normalizada": 9.600000000000000e-002
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3316389,
+            "RentaMedia": 1.334400000000000e+004,
+            "Ratio": 2.485303507194245e+002,
+            "Relacion_Normalizada": 9.600000000000000e-002
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3316389,
+            "RentaMedia": 1.152000000000000e+004,
+            "Ratio": 2.878809895833334e+002,
+            "Relacion_Normalizada": 1.120000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 3136800,
+            "RentaMedia": 1.090100000000000e+004,
+            "Ratio": 2.877534171176956e+002,
+            "Relacion_Normalizada": 1.120000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 3136800,
+            "RentaMedia": 1.043100000000000e+004,
+            "Ratio": 3.007190106413575e+002,
+            "Relacion_Normalizada": 1.170000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 3136800,
+            "RentaMedia": 1.068000000000000e+004,
+            "Ratio": 2.937078651685393e+002,
+            "Relacion_Normalizada": 1.140000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 3136800,
+            "RentaMedia": 1.252100000000000e+004,
+            "Ratio": 2.505231211564572e+002,
+            "Relacion_Normalizada": 9.700000000000000e-002
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 3136800,
+            "RentaMedia": 1.041300000000000e+004,
+            "Ratio": 3.012388360702968e+002,
+            "Relacion_Normalizada": 1.170000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 21870637,
+            "RentaMedia": 1.465600000000000e+004,
+            "Ratio": 1.492265079148472e+003,
+            "Relacion_Normalizada": 5.880000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 21870637,
+            "RentaMedia": 1.284300000000000e+004,
+            "Ratio": 1.702922759479872e+003,
+            "Relacion_Normalizada": 6.710000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 21870637,
+            "RentaMedia": 1.261800000000000e+004,
+            "Ratio": 1.733288714534792e+003,
+            "Relacion_Normalizada": 6.830000000000001e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 21870637,
+            "RentaMedia": 1.243200000000000e+004,
+            "Ratio": 1.759221122908623e+003,
+            "Relacion_Normalizada": 6.940000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 9743903,
+            "RentaMedia": 1.017700000000000e+004,
+            "Ratio": 9.574435491795225e+002,
+            "Relacion_Normalizada": 3.760000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 9743903,
+            "RentaMedia": 1.198700000000000e+004,
+            "Ratio": 8.128725285726204e+002,
+            "Relacion_Normalizada": 3.190000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 9743903,
+            "RentaMedia": 1.214500000000000e+004,
+            "Ratio": 8.022974886784685e+002,
+            "Relacion_Normalizada": 3.150000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "11 Extremadura",
+            "Hipotecas_Anual": 1201946,
+            "RentaMedia": 9.895000000000000e+003,
+            "Ratio": 1.214700353713997e+002,
+            "Relacion_Normalizada": 4.600000000000000e-002
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "11 Extremadura",
+            "Hipotecas_Anual": 1201946,
+            "RentaMedia": 1.053700000000000e+004,
+            "Ratio": 1.140690898737781e+002,
+            "Relacion_Normalizada": 4.300000000000000e-002
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2796591,
+            "RentaMedia": 1.276400000000000e+004,
+            "Ratio": 2.190998903165152e+002,
+            "Relacion_Normalizada": 8.400000000000001e-002
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2796591,
+            "RentaMedia": 1.185600000000000e+004,
+            "Ratio": 2.358798076923077e+002,
+            "Relacion_Normalizada": 9.100000000000000e-002
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2796591,
+            "RentaMedia": 1.172900000000000e+004,
+            "Ratio": 2.384338818313582e+002,
+            "Relacion_Normalizada": 9.200000000000000e-002
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2796591,
+            "RentaMedia": 1.172600000000000e+004,
+            "Ratio": 2.384948831656149e+002,
+            "Relacion_Normalizada": 9.200000000000000e-002
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "13 Madrid, Comunidad de",
+            "Hipotecas_Anual": 30989177,
+            "RentaMedia": 1.552000000000000e+004,
+            "Ratio": 1.996725322164949e+003,
+            "Relacion_Normalizada": 7.880000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "14 Murcia, Región de",
+            "Hipotecas_Anual": 1789431,
+            "RentaMedia": 1.042200000000000e+004,
+            "Ratio": 1.716974668969488e+002,
+            "Relacion_Normalizada": 6.600000000000000e-002
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "15 Navarra, Comunidad Foral de",
+            "Hipotecas_Anual": 1382679
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 6944459
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 6944459,
+            "RentaMedia": 1.554700000000000e+004,
+            "Ratio": 4.466751784910272e+002,
+            "Relacion_Normalizada": 1.740000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 6944459,
+            "RentaMedia": 1.646300000000000e+004,
+            "Ratio": 4.218222073741117e+002,
+            "Relacion_Normalizada": 1.650000000000000e-001
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "17 Rioja, La",
+            "Hipotecas_Anual": 497926,
+            "RentaMedia": 1.293000000000000e+004,
+            "Ratio": 3.850935808197989e+001,
+            "Relacion_Normalizada": 1.300000000000000e-002
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "18 Ceuta",
+            "Hipotecas_Anual": 97619,
+            "RentaMedia": 1.203800000000000e+004,
+            "Ratio": 8.109237414852967e+000,
+            "Relacion_Normalizada": 1.000000000000000e-003
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "18 Ceuta",
+            "Hipotecas_Anual": 97619,
+            "RentaMedia": 1.203800000000000e+004,
+            "Ratio": 8.109237414852967e+000,
+            "Relacion_Normalizada": 1.000000000000000e-003
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "19 Melilla",
+            "Hipotecas_Anual": 112713,
+            "RentaMedia": 1.146300000000000e+004,
+            "Ratio": 9.832766291546715e+000,
+            "Relacion_Normalizada": 2.000000000000000e-003
+        }, {
+            "Año": "2019",
+            "Comunidades_Autonomas": "19 Melilla",
+            "Hipotecas_Anual": 112713,
+            "RentaMedia": 1.146300000000000e+004,
+            "Ratio": 9.832766291546715e+000,
+            "Relacion_Normalizada": 2.000000000000000e-003
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 18082690,
+            "RentaMedia": 1.071700000000000e+004,
+            "Ratio": 1.687290286460763e+003,
+            "Relacion_Normalizada": 6.650000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 18082690,
+            "RentaMedia": 1.026100000000000e+004,
+            "Ratio": 1.762273657538252e+003,
+            "Relacion_Normalizada": 6.950000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 18082690,
+            "RentaMedia": 9.958000000000000e+003,
+            "Ratio": 1.815895762201245e+003,
+            "Relacion_Normalizada": 7.160000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 18082690,
+            "RentaMedia": 1.011200000000000e+004,
+            "Ratio": 1.788240704113924e+003,
+            "Relacion_Normalizada": 7.050000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 18082690,
+            "RentaMedia": 1.046300000000000e+004,
+            "Ratio": 1.728250979642550e+003,
+            "Relacion_Normalizada": 6.810000000000001e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 18082690,
+            "RentaMedia": 1.031400000000000e+004,
+            "Ratio": 1.753217956176071e+003,
+            "Relacion_Normalizada": 6.910000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 18082690,
+            "RentaMedia": 9.709000000000000e+003,
+            "Ratio": 1.862466783396848e+003,
+            "Relacion_Normalizada": 7.350000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 18082690,
+            "RentaMedia": 1.011300000000000e+004,
+            "Ratio": 1.788063878176605e+003,
+            "Relacion_Normalizada": 7.050000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 2745013,
+            "RentaMedia": 1.363700000000000e+004,
+            "Ratio": 2.012915597272127e+002,
+            "Relacion_Normalizada": 7.700000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 2745013,
+            "RentaMedia": 1.265600000000000e+004,
+            "Ratio": 2.168942003792668e+002,
+            "Relacion_Normalizada": 8.400000000000001e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 2745013,
+            "RentaMedia": 1.315800000000000e+004,
+            "Ratio": 2.086193190454476e+002,
+            "Relacion_Normalizada": 8.000000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "03 Asturias, Principado de",
+            "Hipotecas_Anual": 1841610,
+            "RentaMedia": 1.350500000000000e+004,
+            "Ratio": 1.363650499814883e+002,
+            "Relacion_Normalizada": 5.200000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4453317,
+            "RentaMedia": 1.266400000000000e+004,
+            "Ratio": 3.516516898294378e+002,
+            "Relacion_Normalizada": 1.370000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4453317,
+            "RentaMedia": 1.248000000000000e+004,
+            "Ratio": 3.568362980769231e+002,
+            "Relacion_Normalizada": 1.390000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4453317,
+            "RentaMedia": 1.241600000000000e+004,
+            "Ratio": 3.586756604381444e+002,
+            "Relacion_Normalizada": 1.400000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4453317,
+            "RentaMedia": 1.248600000000000e+004,
+            "Ratio": 3.566648246035560e+002,
+            "Relacion_Normalizada": 1.390000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4100486,
+            "RentaMedia": 1.067600000000000e+004,
+            "Ratio": 3.840844885724991e+002,
+            "Relacion_Normalizada": 1.500000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4100486,
+            "RentaMedia": 1.058600000000000e+004,
+            "Ratio": 3.873498960891744e+002,
+            "Relacion_Normalizada": 1.510000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4100486,
+            "RentaMedia": 1.123400000000000e+004,
+            "Ratio": 3.650067651771408e+002,
+            "Relacion_Normalizada": 1.420000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4100486,
+            "RentaMedia": 1.087400000000000e+004,
+            "Ratio": 3.770908589295568e+002,
+            "Relacion_Normalizada": 1.470000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4100486,
+            "RentaMedia": 1.067900000000000e+004,
+            "Ratio": 3.839765895683116e+002,
+            "Relacion_Normalizada": 1.500000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4100486,
+            "RentaMedia": 1.037500000000000e+004,
+            "Ratio": 3.952275662650603e+002,
+            "Relacion_Normalizada": 1.540000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4100486,
+            "RentaMedia": 1.150000000000000e+004,
+            "Ratio": 3.565640000000000e+002,
+            "Relacion_Normalizada": 1.390000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4100486,
+            "RentaMedia": 9.818000000000000e+003,
+            "Ratio": 4.176498268486453e+002,
+            "Relacion_Normalizada": 1.630000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4100486,
+            "RentaMedia": 1.117200000000000e+004,
+            "Ratio": 3.670324024346581e+002,
+            "Relacion_Normalizada": 1.430000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "06 Cantabria",
+            "Hipotecas_Anual": 994535,
+            "RentaMedia": 1.286500000000000e+004,
+            "Ratio": 7.730547998445394e+001,
+            "Relacion_Normalizada": 2.800000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3282115,
+            "RentaMedia": 1.173700000000000e+004,
+            "Ratio": 2.796383232512567e+002,
+            "Relacion_Normalizada": 1.080000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3282115,
+            "RentaMedia": 1.349000000000000e+004,
+            "Ratio": 2.432998517420311e+002,
+            "Relacion_Normalizada": 9.400000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3282115,
+            "RentaMedia": 1.388900000000000e+004,
+            "Ratio": 2.363103895168839e+002,
+            "Relacion_Normalizada": 9.100000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3282115,
+            "RentaMedia": 1.272200000000000e+004,
+            "Ratio": 2.579873447571137e+002,
+            "Relacion_Normalizada": 1.000000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3282115,
+            "RentaMedia": 1.235500000000000e+004,
+            "Ratio": 2.656507486847430e+002,
+            "Relacion_Normalizada": 1.030000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3282115,
+            "RentaMedia": 1.315300000000000e+004,
+            "Ratio": 2.495335664867331e+002,
+            "Relacion_Normalizada": 9.600000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3282115,
+            "RentaMedia": 1.291700000000000e+004,
+            "Ratio": 2.540926685762948e+002,
+            "Relacion_Normalizada": 9.800000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3282115,
+            "RentaMedia": 1.377700000000000e+004,
+            "Ratio": 2.382314727444291e+002,
+            "Relacion_Normalizada": 9.200000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 3282115,
+            "RentaMedia": 1.157700000000000e+004,
+            "Ratio": 2.835030664248078e+002,
+            "Relacion_Normalizada": 1.100000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2734607,
+            "RentaMedia": 1.053300000000000e+004,
+            "Ratio": 2.596228045191303e+002,
+            "Relacion_Normalizada": 1.000000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2734607,
+            "RentaMedia": 1.262400000000000e+004,
+            "Ratio": 2.166196926489227e+002,
+            "Relacion_Normalizada": 8.300000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2734607,
+            "RentaMedia": 1.099100000000000e+004,
+            "Ratio": 2.488042034391775e+002,
+            "Relacion_Normalizada": 9.600000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2734607,
+            "RentaMedia": 1.057000000000000e+004,
+            "Ratio": 2.587140018921476e+002,
+            "Relacion_Normalizada": 1.000000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 2734607,
+            "RentaMedia": 1.110400000000000e+004,
+            "Ratio": 2.462722442363113e+002,
+            "Relacion_Normalizada": 9.500000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 23788559,
+            "RentaMedia": 1.249100000000000e+004,
+            "Ratio": 1.904455928268353e+003,
+            "Relacion_Normalizada": 7.510000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 23788559,
+            "RentaMedia": 1.289600000000000e+004,
+            "Ratio": 1.844646324441687e+003,
+            "Relacion_Normalizada": 7.270000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 23788559,
+            "RentaMedia": 1.286500000000000e+004,
+            "Ratio": 1.849091255343956e+003,
+            "Relacion_Normalizada": 7.290000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 23788559,
+            "RentaMedia": 1.467600000000000e+004,
+            "Ratio": 1.620915712728264e+003,
+            "Relacion_Normalizada": 6.390000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 8672236,
+            "RentaMedia": 1.233300000000000e+004,
+            "Ratio": 7.031732749533771e+002,
+            "Relacion_Normalizada": 2.760000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 8672236,
+            "RentaMedia": 1.207900000000000e+004,
+            "Ratio": 7.179597648811988e+002,
+            "Relacion_Normalizada": 2.820000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 8672236,
+            "RentaMedia": 1.023600000000000e+004,
+            "Ratio": 8.472289957014459e+002,
+            "Relacion_Normalizada": 3.330000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "11 Extremadura",
+            "Hipotecas_Anual": 1112848,
+            "RentaMedia": 1.066000000000000e+004,
+            "Ratio": 1.043947467166979e+002,
+            "Relacion_Normalizada": 3.900000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "11 Extremadura",
+            "Hipotecas_Anual": 1112848,
+            "RentaMedia": 1.000100000000000e+004,
+            "Ratio": 1.112736726327367e+002,
+            "Relacion_Normalizada": 4.200000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2844357,
+            "RentaMedia": 1.188100000000000e+004,
+            "Ratio": 2.394038380607693e+002,
+            "Relacion_Normalizada": 9.200000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2844357,
+            "RentaMedia": 1.193700000000000e+004,
+            "Ratio": 2.382807237999497e+002,
+            "Relacion_Normalizada": 9.200000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2844357,
+            "RentaMedia": 1.202100000000000e+004,
+            "Ratio": 2.366156725729973e+002,
+            "Relacion_Normalizada": 9.100000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 2844357,
+            "RentaMedia": 1.284100000000000e+004,
+            "Ratio": 2.215058796043922e+002,
+            "Relacion_Normalizada": 8.500000000000001e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "13 Madrid, Comunidad de",
+            "Hipotecas_Anual": 28071864,
+            "RentaMedia": 1.557900000000000e+004,
+            "Ratio": 1.801904101675332e+003,
+            "Relacion_Normalizada": 7.110000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "14 Murcia, Región de",
+            "Hipotecas_Anual": 1781686,
+            "RentaMedia": 1.057400000000000e+004,
+            "Ratio": 1.684968791375071e+002,
+            "Relacion_Normalizada": 6.400000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "15 Navarra, Comunidad Foral de",
+            "Hipotecas_Anual": 1303314
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 7011353,
+            "RentaMedia": 1.639900000000000e+004,
+            "Ratio": 4.275475943655101e+002,
+            "Relacion_Normalizada": 1.670000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 7011353,
+            "RentaMedia": 1.555500000000000e+004,
+            "Ratio": 4.507459337833494e+002,
+            "Relacion_Normalizada": 1.760000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 7011353,
+            "RentaMedia": 1.496200000000000e+004,
+            "Ratio": 4.686106803903222e+002,
+            "Relacion_Normalizada": 1.830000000000000e-001
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "17 Rioja, La",
+            "Hipotecas_Anual": 510727,
+            "RentaMedia": 1.273800000000000e+004,
+            "Ratio": 4.009475584864186e+001,
+            "Relacion_Normalizada": 1.400000000000000e-002
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "18 Ceuta",
+            "Hipotecas_Anual": 102148,
+            "RentaMedia": 1.235800000000000e+004,
+            "Ratio": 8.265738792684900e+000,
+            "Relacion_Normalizada": 1.000000000000000e-003
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "18 Ceuta",
+            "Hipotecas_Anual": 102148,
+            "RentaMedia": 1.235800000000000e+004,
+            "Ratio": 8.265738792684900e+000,
+            "Relacion_Normalizada": 1.000000000000000e-003
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "19 Melilla",
+            "Hipotecas_Anual": 107112,
+            "RentaMedia": 1.166500000000000e+004,
+            "Ratio": 9.182340334333476e+000,
+            "Relacion_Normalizada": 1.000000000000000e-003
+        }, {
+            "Año": "2020",
+            "Comunidades_Autonomas": "19 Melilla",
+            "Hipotecas_Anual": 107112,
+            "RentaMedia": 1.166500000000000e+004,
+            "Ratio": 9.182340334333476e+000,
+            "Relacion_Normalizada": 1.000000000000000e-003
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 22876584,
+            "RentaMedia": 1.071200000000000e+004,
+            "Ratio": 2.135603435399552e+003,
+            "Relacion_Normalizada": 8.430000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 22876584,
+            "RentaMedia": 1.010300000000000e+004,
+            "Ratio": 2.264335741858854e+003,
+            "Relacion_Normalizada": 8.940000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 22876584,
+            "RentaMedia": 1.097900000000000e+004,
+            "Ratio": 2.083667364969487e+003,
+            "Relacion_Normalizada": 8.220000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 22876584,
+            "RentaMedia": 1.110000000000000e+004,
+            "Ratio": 2.060953513513513e+003,
+            "Relacion_Normalizada": 8.129999999999999e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 22876584,
+            "RentaMedia": 1.060900000000000e+004,
+            "Ratio": 2.156337449335470e+003,
+            "Relacion_Normalizada": 8.510000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 22876584,
+            "RentaMedia": 1.068900000000000e+004,
+            "Ratio": 2.140198708953129e+003,
+            "Relacion_Normalizada": 8.440000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 22876584,
+            "RentaMedia": 1.092900000000000e+004,
+            "Ratio": 2.093200109799616e+003,
+            "Relacion_Normalizada": 8.260000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 22876584,
+            "RentaMedia": 1.129200000000000e+004,
+            "Ratio": 2.025910733262487e+003,
+            "Relacion_Normalizada": 7.990000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 3027494,
+            "RentaMedia": 1.367900000000000e+004,
+            "Ratio": 2.213242196066964e+002,
+            "Relacion_Normalizada": 8.500000000000001e-002
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 3027494,
+            "RentaMedia": 1.313400000000000e+004,
+            "Ratio": 2.305081467945790e+002,
+            "Relacion_Normalizada": 8.900000000000000e-002
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 3027494,
+            "RentaMedia": 1.408700000000000e+004,
+            "Ratio": 2.149140342159438e+002,
+            "Relacion_Normalizada": 8.300000000000000e-002
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "03 Asturias, Principado de",
+            "Hipotecas_Anual": 1849616,
+            "RentaMedia": 1.405700000000000e+004,
+            "Ratio": 1.315797111759266e+002,
+            "Relacion_Normalizada": 5.000000000000000e-002
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4934850,
+            "RentaMedia": 1.346800000000000e+004,
+            "Ratio": 3.664129789129789e+002,
+            "Relacion_Normalizada": 1.430000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4934850,
+            "RentaMedia": 1.383400000000000e+004,
+            "Ratio": 3.567189533034552e+002,
+            "Relacion_Normalizada": 1.390000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4934850,
+            "RentaMedia": 1.336300000000000e+004,
+            "Ratio": 3.692920751328294e+002,
+            "Relacion_Normalizada": 1.440000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 4934850,
+            "RentaMedia": 1.384700000000000e+004,
+            "Ratio": 3.563840543077923e+002,
+            "Relacion_Normalizada": 1.390000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3743196,
+            "RentaMedia": 1.169700000000000e+004,
+            "Ratio": 3.200133367530136e+002,
+            "Relacion_Normalizada": 1.240000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3743196,
+            "RentaMedia": 1.045600000000000e+004,
+            "Ratio": 3.579950267788830e+002,
+            "Relacion_Normalizada": 1.390000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3743196,
+            "RentaMedia": 1.200000000000000e+004,
+            "Ratio": 3.119330000000000e+002,
+            "Relacion_Normalizada": 1.210000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3743196,
+            "RentaMedia": 1.095300000000000e+004,
+            "Ratio": 3.417507532182964e+002,
+            "Relacion_Normalizada": 1.330000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3743196,
+            "RentaMedia": 1.119800000000000e+004,
+            "Ratio": 3.342736202893374e+002,
+            "Relacion_Normalizada": 1.300000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3743196,
+            "RentaMedia": 1.154300000000000e+004,
+            "Ratio": 3.242827687776141e+002,
+            "Relacion_Normalizada": 1.260000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3743196,
+            "RentaMedia": 1.163000000000000e+004,
+            "Ratio": 3.218569217540843e+002,
+            "Relacion_Normalizada": 1.250000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3743196,
+            "RentaMedia": 1.104600000000000e+004,
+            "Ratio": 3.388734383487235e+002,
+            "Relacion_Normalizada": 1.320000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 3743196,
+            "RentaMedia": 1.119900000000000e+004,
+            "Ratio": 3.342437717653362e+002,
+            "Relacion_Normalizada": 1.300000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "06 Cantabria",
+            "Hipotecas_Anual": 1387598,
+            "RentaMedia": 1.342500000000000e+004,
+            "Ratio": 1.033592551210428e+002,
+            "Relacion_Normalizada": 3.900000000000000e-002
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 4128287,
+            "RentaMedia": 1.212300000000000e+004,
+            "Ratio": 3.405334488162996e+002,
+            "Relacion_Normalizada": 1.320000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 4128287,
+            "RentaMedia": 1.435700000000000e+004,
+            "Ratio": 2.875452392561120e+002,
+            "Relacion_Normalizada": 1.110000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 4128287,
+            "RentaMedia": 1.340000000000000e+004,
+            "Ratio": 3.080811194029851e+002,
+            "Relacion_Normalizada": 1.200000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 4128287,
+            "RentaMedia": 1.362400000000000e+004,
+            "Ratio": 3.030157809747504e+002,
+            "Relacion_Normalizada": 1.180000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 4128287,
+            "RentaMedia": 1.292000000000000e+004,
+            "Ratio": 3.195268575851393e+002,
+            "Relacion_Normalizada": 1.240000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 4128287,
+            "RentaMedia": 1.332400000000000e+004,
+            "Ratio": 3.098384118883218e+002,
+            "Relacion_Normalizada": 1.200000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 4128287,
+            "RentaMedia": 1.438500000000000e+004,
+            "Ratio": 2.869855404935697e+002,
+            "Relacion_Normalizada": 1.110000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 4128287,
+            "RentaMedia": 1.398700000000000e+004,
+            "Ratio": 2.951517123042826e+002,
+            "Relacion_Normalizada": 1.140000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 4128287,
+            "RentaMedia": 1.229200000000000e+004,
+            "Ratio": 3.358515294500488e+002,
+            "Relacion_Normalizada": 1.310000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 4148058,
+            "RentaMedia": 1.165200000000000e+004,
+            "Ratio": 3.559953656024717e+002,
+            "Relacion_Normalizada": 1.390000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 4148058,
+            "RentaMedia": 1.105100000000000e+004,
+            "Ratio": 3.753558953940820e+002,
+            "Relacion_Normalizada": 1.460000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 4148058,
+            "RentaMedia": 1.155000000000000e+004,
+            "Ratio": 3.591392207792208e+002,
+            "Relacion_Normalizada": 1.400000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 4148058,
+            "RentaMedia": 1.314900000000000e+004,
+            "Ratio": 3.154656627880447e+002,
+            "Relacion_Normalizada": 1.230000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 4148058,
+            "RentaMedia": 1.099800000000000e+004,
+            "Ratio": 3.771647572285870e+002,
+            "Relacion_Normalizada": 1.470000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 27181425,
+            "RentaMedia": 1.529700000000000e+004,
+            "Ratio": 1.776912139635223e+003,
+            "Relacion_Normalizada": 7.010000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 27181425,
+            "RentaMedia": 1.348500000000000e+004,
+            "Ratio": 2.015678531701891e+003,
+            "Relacion_Normalizada": 7.950000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 27181425,
+            "RentaMedia": 1.333400000000000e+004,
+            "Ratio": 2.038504949752512e+003,
+            "Relacion_Normalizada": 8.040000000000001e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 27181425,
+            "RentaMedia": 1.308600000000000e+004,
+            "Ratio": 2.077137780834480e+003,
+            "Relacion_Normalizada": 8.190000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 11299599,
+            "RentaMedia": 1.077000000000000e+004,
+            "Ratio": 1.049173537604457e+003,
+            "Relacion_Normalizada": 4.130000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 11299599,
+            "RentaMedia": 1.268000000000000e+004,
+            "Ratio": 8.911355678233439e+002,
+            "Relacion_Normalizada": 3.500000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 11299599,
+            "RentaMedia": 1.282300000000000e+004,
+            "Ratio": 8.811977696326912e+002,
+            "Relacion_Normalizada": 3.460000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "11 Extremadura",
+            "Hipotecas_Anual": 1461492,
+            "RentaMedia": 1.054900000000000e+004,
+            "Ratio": 1.385431794482889e+002,
+            "Relacion_Normalizada": 5.300000000000000e-002
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "11 Extremadura",
+            "Hipotecas_Anual": 1461492,
+            "RentaMedia": 1.123800000000000e+004,
+            "Ratio": 1.300491190603310e+002,
+            "Relacion_Normalizada": 4.900000000000000e-002
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 3753547,
+            "RentaMedia": 1.331900000000000e+004,
+            "Ratio": 2.818189804039342e+002,
+            "Relacion_Normalizada": 1.090000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 3753547,
+            "RentaMedia": 1.256000000000000e+004,
+            "Ratio": 2.988492834394904e+002,
+            "Relacion_Normalizada": 1.160000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 3753547,
+            "RentaMedia": 1.236500000000000e+004,
+            "Ratio": 3.035622321067530e+002,
+            "Relacion_Normalizada": 1.180000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 3753547,
+            "RentaMedia": 1.242500000000000e+004,
+            "Ratio": 3.020963380281690e+002,
+            "Relacion_Normalizada": 1.170000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "13 Madrid, Comunidad de",
+            "Hipotecas_Anual": 34776233,
+            "RentaMedia": 1.614600000000000e+004,
+            "Ratio": 2.153860584664933e+003,
+            "Relacion_Normalizada": 8.500000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "14 Murcia, Región de",
+            "Hipotecas_Anual": 2532622,
+            "RentaMedia": 1.102300000000000e+004,
+            "Ratio": 2.297579606277783e+002,
+            "Relacion_Normalizada": 8.900000000000000e-002
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "15 Navarra, Comunidad Foral de",
+            "Hipotecas_Anual": 1665419,
+            "RentaMedia": 1.471800000000000e+004,
+            "Ratio": 1.131552520722924e+002,
+            "Relacion_Normalizada": 4.200000000000000e-002
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 8178803,
+            "RentaMedia": 1.553900000000000e+004,
+            "Ratio": 5.263403693931399e+002,
+            "Relacion_Normalizada": 2.060000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 8178803,
+            "RentaMedia": 1.619200000000000e+004,
+            "Ratio": 5.051138216403162e+002,
+            "Relacion_Normalizada": 1.980000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 8178803,
+            "RentaMedia": 1.688700000000000e+004,
+            "Ratio": 4.843253982353290e+002,
+            "Relacion_Normalizada": 1.890000000000000e-001
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "17 Rioja, La",
+            "Hipotecas_Anual": 610272,
+            "RentaMedia": 1.321500000000000e+004,
+            "Ratio": 4.618024971623156e+001,
+            "Relacion_Normalizada": 1.600000000000000e-002
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "18 Ceuta",
+            "Hipotecas_Anual": 75164,
+            "RentaMedia": 1.303000000000000e+004,
+            "Ratio": 5.768534151957022e+000,
+            "Relacion_Normalizada": 0.000000000000000e+000
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "18 Ceuta",
+            "Hipotecas_Anual": 75164,
+            "RentaMedia": 1.303000000000000e+004,
+            "Ratio": 5.768534151957022e+000,
+            "Relacion_Normalizada": 0.000000000000000e+000
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "19 Melilla",
+            "Hipotecas_Anual": 163123,
+            "RentaMedia": 1.250600000000000e+004,
+            "Ratio": 1.304357908204062e+001,
+            "Relacion_Normalizada": 3.000000000000000e-003
+        }, {
+            "Año": "2021",
+            "Comunidades_Autonomas": "19 Melilla",
+            "Hipotecas_Anual": 163123,
+            "RentaMedia": 1.250600000000000e+004,
+            "Ratio": 1.304357908204062e+001,
+            "Relacion_Normalizada": 3.000000000000000e-003
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 26867409,
+            "RentaMedia": 1.201300000000000e+004,
+            "Ratio": 2.236527844834762e+003,
+            "Relacion_Normalizada": 8.830000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 26867409,
+            "RentaMedia": 1.174400000000000e+004,
+            "Ratio": 2.287756215940055e+003,
+            "Relacion_Normalizada": 9.030000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 26867409,
+            "RentaMedia": 1.107400000000000e+004,
+            "Ratio": 2.426170218529890e+003,
+            "Relacion_Normalizada": 9.580000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 26867409,
+            "RentaMedia": 1.119900000000000e+004,
+            "Ratio": 2.399090008036432e+003,
+            "Relacion_Normalizada": 9.470000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 26867409,
+            "RentaMedia": 1.175400000000000e+004,
+            "Ratio": 2.285809851965289e+003,
+            "Relacion_Normalizada": 9.020000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 26867409,
+            "RentaMedia": 1.060500000000000e+004,
+            "Ratio": 2.533466195190948e+003,
+            "Relacion_Normalizada": 1.000000000000000e+000
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 26867409,
+            "RentaMedia": 1.139600000000000e+004,
+            "Ratio": 2.357617497367497e+003,
+            "Relacion_Normalizada": 9.300000000000001e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "01 Andalucía",
+            "Hipotecas_Anual": 26867409,
+            "RentaMedia": 1.156900000000000e+004,
+            "Ratio": 2.322362261215317e+003,
+            "Relacion_Normalizada": 9.160000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 3586161,
+            "RentaMedia": 1.475000000000000e+004,
+            "Ratio": 2.431295593220339e+002,
+            "Relacion_Normalizada": 9.400000000000000e-002
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 3586161,
+            "RentaMedia": 1.373600000000000e+004,
+            "Ratio": 2.610775334886430e+002,
+            "Relacion_Normalizada": 1.010000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "02 Aragón",
+            "Hipotecas_Anual": 3586161,
+            "RentaMedia": 1.425200000000000e+004,
+            "Ratio": 2.516251052483862e+002,
+            "Relacion_Normalizada": 9.700000000000000e-002
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "03 Asturias, Principado de",
+            "Hipotecas_Anual": 2187795,
+            "RentaMedia": 1.484200000000000e+004,
+            "Ratio": 1.474056730898801e+002,
+            "Relacion_Normalizada": 5.600000000000000e-002
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 6511111,
+            "RentaMedia": 1.507700000000000e+004,
+            "Ratio": 4.318571997081647e+002,
+            "Relacion_Normalizada": 1.690000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 6511111,
+            "RentaMedia": 1.458800000000000e+004,
+            "Ratio": 4.463333561831643e+002,
+            "Relacion_Normalizada": 1.740000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 6511111,
+            "RentaMedia": 1.538600000000000e+004,
+            "Ratio": 4.231841284284415e+002,
+            "Relacion_Normalizada": 1.650000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "04 Balears, Illes",
+            "Hipotecas_Anual": 6511111,
+            "RentaMedia": 1.474000000000000e+004,
+            "Ratio": 4.417307327001357e+002,
+            "Relacion_Normalizada": 1.720000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4793639,
+            "RentaMedia": 1.217300000000000e+004,
+            "Ratio": 3.937927380267806e+002,
+            "Relacion_Normalizada": 1.540000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4793639,
+            "RentaMedia": 1.293800000000000e+004,
+            "Ratio": 3.705085020868759e+002,
+            "Relacion_Normalizada": 1.440000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4793639,
+            "RentaMedia": 1.212500000000000e+004,
+            "Ratio": 3.953516701030928e+002,
+            "Relacion_Normalizada": 1.540000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4793639,
+            "RentaMedia": 1.240100000000000e+004,
+            "Ratio": 3.865526167244577e+002,
+            "Relacion_Normalizada": 1.510000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4793639,
+            "RentaMedia": 1.223700000000000e+004,
+            "Ratio": 3.917331862384572e+002,
+            "Relacion_Normalizada": 1.530000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4793639,
+            "RentaMedia": 1.222800000000000e+004,
+            "Ratio": 3.920215080143932e+002,
+            "Relacion_Normalizada": 1.530000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4793639,
+            "RentaMedia": 1.295700000000000e+004,
+            "Ratio": 3.699651925600062e+002,
+            "Relacion_Normalizada": 1.440000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4793639,
+            "RentaMedia": 1.162900000000000e+004,
+            "Ratio": 4.122142058646487e+002,
+            "Relacion_Normalizada": 1.610000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "05 Canarias",
+            "Hipotecas_Anual": 4793639,
+            "RentaMedia": 1.271600000000000e+004,
+            "Ratio": 3.769769581629443e+002,
+            "Relacion_Normalizada": 1.470000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "06 Cantabria",
+            "Hipotecas_Anual": 1574481,
+            "RentaMedia": 1.421100000000000e+004,
+            "Ratio": 1.107931180071775e+002,
+            "Relacion_Normalizada": 4.200000000000000e-002
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 4760344,
+            "RentaMedia": 1.291300000000000e+004,
+            "Ratio": 3.686474095872377e+002,
+            "Relacion_Normalizada": 1.440000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 4760344,
+            "RentaMedia": 1.465800000000000e+004,
+            "Ratio": 3.247608132078046e+002,
+            "Relacion_Normalizada": 1.260000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 4760344,
+            "RentaMedia": 1.472100000000000e+004,
+            "Ratio": 3.233709666462876e+002,
+            "Relacion_Normalizada": 1.260000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 4760344,
+            "RentaMedia": 1.395600000000000e+004,
+            "Ratio": 3.410965892805962e+002,
+            "Relacion_Normalizada": 1.330000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 4760344,
+            "RentaMedia": 1.361000000000000e+004,
+            "Ratio": 3.497681116825863e+002,
+            "Relacion_Normalizada": 1.360000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 4760344,
+            "RentaMedia": 1.425100000000000e+004,
+            "Ratio": 3.340357869623184e+002,
+            "Relacion_Normalizada": 1.300000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 4760344,
+            "RentaMedia": 1.414400000000000e+004,
+            "Ratio": 3.365627828054299e+002,
+            "Relacion_Normalizada": 1.310000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 4760344,
+            "RentaMedia": 1.501700000000000e+004,
+            "Ratio": 3.169970033961510e+002,
+            "Relacion_Normalizada": 1.230000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "07 Castilla y León",
+            "Hipotecas_Anual": 4760344,
+            "RentaMedia": 1.268400000000000e+004,
+            "Ratio": 3.753030589719331e+002,
+            "Relacion_Normalizada": 1.460000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 4209074,
+            "RentaMedia": 1.161400000000000e+004,
+            "Ratio": 3.624138109178578e+002,
+            "Relacion_Normalizada": 1.410000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 4209074,
+            "RentaMedia": 1.382900000000000e+004,
+            "Ratio": 3.043657531274857e+002,
+            "Relacion_Normalizada": 1.180000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 4209074,
+            "RentaMedia": 1.202200000000000e+004,
+            "Ratio": 3.501142904674763e+002,
+            "Relacion_Normalizada": 1.360000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 4209074,
+            "RentaMedia": 1.172400000000000e+004,
+            "Ratio": 3.590134766291368e+002,
+            "Relacion_Normalizada": 1.400000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "08 Castilla - La Mancha",
+            "Hipotecas_Anual": 4209074,
+            "RentaMedia": 1.230500000000000e+004,
+            "Ratio": 3.420620885818773e+002,
+            "Relacion_Normalizada": 1.330000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 32911597,
+            "RentaMedia": 1.367300000000000e+004,
+            "Ratio": 2.407050171871572e+003,
+            "Relacion_Normalizada": 9.500000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 32911597,
+            "RentaMedia": 1.386500000000000e+004,
+            "Ratio": 2.373717778579156e+003,
+            "Relacion_Normalizada": 9.370000000000001e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 32911597,
+            "RentaMedia": 1.417600000000000e+004,
+            "Ratio": 2.321642000564334e+003,
+            "Relacion_Normalizada": 9.160000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "09 Cataluña",
+            "Hipotecas_Anual": 32911597,
+            "RentaMedia": 1.610500000000000e+004,
+            "Ratio": 2.043563924247128e+003,
+            "Relacion_Normalizada": 8.060000000000001e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 13221538,
+            "RentaMedia": 1.354800000000000e+004,
+            "Ratio": 9.759033067611456e+002,
+            "Relacion_Normalizada": 3.840000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 13221538,
+            "RentaMedia": 1.330500000000000e+004,
+            "Ratio": 9.937270199173244e+002,
+            "Relacion_Normalizada": 3.910000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "10 Comunitat Valenciana",
+            "Hipotecas_Anual": 13221538,
+            "RentaMedia": 1.137800000000000e+004,
+            "Ratio": 1.162026542450343e+003,
+            "Relacion_Normalizada": 4.570000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "11 Extremadura",
+            "Hipotecas_Anual": 1587548,
+            "RentaMedia": 1.178600000000000e+004,
+            "Ratio": 1.346977770235873e+002,
+            "Relacion_Normalizada": 5.100000000000000e-002
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "11 Extremadura",
+            "Hipotecas_Anual": 1587548,
+            "RentaMedia": 1.115800000000000e+004,
+            "Ratio": 1.422789030292167e+002,
+            "Relacion_Normalizada": 5.400000000000000e-002
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 4269508,
+            "RentaMedia": 1.317000000000000e+004,
+            "Ratio": 3.241843583902809e+002,
+            "Relacion_Normalizada": 1.260000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 4269508,
+            "RentaMedia": 1.304300000000000e+004,
+            "Ratio": 3.273409491681362e+002,
+            "Relacion_Normalizada": 1.270000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 4269508,
+            "RentaMedia": 1.336200000000000e+004,
+            "Ratio": 3.195261188444844e+002,
+            "Relacion_Normalizada": 1.240000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "12 Galicia",
+            "Hipotecas_Anual": 4269508,
+            "RentaMedia": 1.429400000000000e+004,
+            "Ratio": 2.986923184552960e+002,
+            "Relacion_Normalizada": 1.160000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "13 Madrid, Comunidad de",
+            "Hipotecas_Anual": 40252545,
+            "RentaMedia": 1.713100000000000e+004,
+            "Ratio": 2.349690327476505e+003,
+            "Relacion_Normalizada": 9.270000000000001e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "14 Murcia, Región de",
+            "Hipotecas_Anual": 2908884,
+            "RentaMedia": 1.159900000000000e+004,
+            "Ratio": 2.507874816794551e+002,
+            "Relacion_Normalizada": 9.700000000000000e-002
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "15 Navarra, Comunidad Foral de",
+            "Hipotecas_Anual": 1670223,
+            "RentaMedia": 1.568100000000000e+004,
+            "Ratio": 1.065125310885785e+002,
+            "Relacion_Normalizada": 4.000000000000000e-002
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 9040210,
+            "RentaMedia": 1.832500000000000e+004,
+            "Ratio": 4.933266030013643e+002,
+            "Relacion_Normalizada": 1.930000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 9040210,
+            "RentaMedia": 1.722500000000000e+004,
+            "Ratio": 5.248307692307692e+002,
+            "Relacion_Normalizada": 2.050000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "16 País Vasco",
+            "Hipotecas_Anual": 9040210,
+            "RentaMedia": 1.640300000000000e+004,
+            "Ratio": 5.511315003353045e+002,
+            "Relacion_Normalizada": 2.160000000000000e-001
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "17 Rioja, La",
+            "Hipotecas_Anual": 796463,
+            "RentaMedia": 1.386400000000000e+004,
+            "Ratio": 5.744828332371610e+001,
+            "Relacion_Normalizada": 2.000000000000000e-002
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "18 Ceuta",
+            "Hipotecas_Anual": 117308,
+            "RentaMedia": 1.367300000000000e+004,
+            "Ratio": 8.579536312440576e+000,
+            "Relacion_Normalizada": 1.000000000000000e-003
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "18 Ceuta",
+            "Hipotecas_Anual": 117308,
+            "RentaMedia": 1.367300000000000e+004,
+            "Ratio": 8.579536312440576e+000,
+            "Relacion_Normalizada": 1.000000000000000e-003
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "19 Melilla",
+            "Hipotecas_Anual": 174521,
+            "RentaMedia": 1.314000000000000e+004,
+            "Ratio": 1.328165905631659e+001,
+            "Relacion_Normalizada": 3.000000000000000e-003
+        }, {
+            "Año": "2022",
+            "Comunidades_Autonomas": "19 Melilla",
+            "Hipotecas_Anual": 174521,
+            "RentaMedia": 1.314000000000000e+004,
+            "Ratio": 1.328165905631659e+001,
+            "Relacion_Normalizada": 3.000000000000000e-003
+        }
+    ]
+}

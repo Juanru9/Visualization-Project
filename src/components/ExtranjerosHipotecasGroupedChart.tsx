@@ -50,7 +50,7 @@ export const ExtranjerosHipotecasGroupedChart: React.FC<ExtranjerosHipotecasGrou
   return (
     <Box sx={{ width: "100%", height: "100%", p: 2 }}>
       <Typography variant="h4" align="center" gutterBottom>
-        Comparación de Extranjeros y Hipotecas
+        Comparación de Extranjeros y nº Hipotecas
       </Typography>
       <Grid container spacing={2} sx={{ height: "calc(100% - 80px)" }}>
         {/* Gráfico a la izquierda: ocupa xs=12, md=8 */}

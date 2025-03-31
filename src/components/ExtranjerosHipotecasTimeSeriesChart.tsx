@@ -66,7 +66,7 @@ export const ExtranjerosHipotecasTimeSeriesChart: React.FC<ExtranjerosHipotecasT
   return (
     <Box sx={{ width: "100%", height: "100%", p: 2 }}>
       <Typography variant="h4" align="center" gutterBottom>
-        Serie Temporal de Extranjeros y Hipotecas (por año)
+        Serie Temporal de Extranjeros e Hipotecas
       </Typography>
       <Grid container spacing={2} sx={{ height: "calc(100% - 80px)" }}>
         {/* Gráfico a la izquierda: xs=12, md=8 */}

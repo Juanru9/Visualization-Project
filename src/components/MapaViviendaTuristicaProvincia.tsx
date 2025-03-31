@@ -7,6 +7,7 @@ import {
   SpainProvincesGeoJSON,
   ViviendasTuristicasProvinciasData,
 } from "../types";
+import { DynamicLoader } from "./loading/DynamicLoader";
 
 interface MapaViviendaTuristicaProvinciaProps {
   geoData: SpainProvincesGeoJSON;
@@ -42,7 +43,7 @@ export const MapaViviendaTuristicaProvincia: React.FC<MapaViviendaTuristicaProvi
   }, [month, year, rawData]);
 
   if (data.length === 0) {
-    return <div>Cargando...</div>;
+    return <DynamicLoader loading={data.length === 0} message="Cargando datos..." />;
   }
 
   const totalViviendas = data.reduce((acc, dp) => acc + dp.value, 0);

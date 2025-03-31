@@ -57,6 +57,47 @@ export interface SpainProvinceProperties {
   created_at: string;
   updated_at: string;
 }
+
+
+// Tipo que representa cada registro del JSON de PIB e Hipotecas
+export interface PIBHipotecasItem {
+  Año: string;
+  Trimestre: number;
+  PIB_Millones: number;
+  Numero_Total_Hipotecas: number;
+  PIB_Normalizado: number;
+  Hipotecas_Normalizadas: number;
+}
+type PIBHipotecasJSON = Array<PIBHipotecasItem>
+
+// Tipo para los puntos de la serie temporal que usaremos en el gráfico
+export interface TimeSeriesPIBHipotecasDataPoint {
+  year: Date;
+  normalizedPIB: number;
+  normalizedHipotecas: number;
+}
+
+// Tipo que representa cada registro del JSON de Hipotecas y Tipos de Interés
+export interface HipotecasTiposInteresItem {
+  Anio: string;
+  Mes: string;
+  Hipotecas_Nacional: number;
+  Tipo_Interes: number;
+}
+type HipotecasTiposInteresJSON = Array<HipotecasTiposInteresItem>
+
+
+export interface HipotecasRentaItem {
+  Año: string;
+  Comunidades_Autonomas: string;
+  Hipotecas_Anual: number;
+  RentaMedia: number;
+  Ratio: number;
+  Relacion_Normalizada: number;
+}
+type HipotecasRentaJSON = Array<HipotecasRentaItem>
+
+
 // Nuestro GeoJSON es una colección de features cuyo geometry es de tipo Geometry
 // y las properties son de tipo SpainProvinceProperties
 export type SpainProvincesGeoJSON = FeatureCollection<Geometry, SpainProvinceProperties>;

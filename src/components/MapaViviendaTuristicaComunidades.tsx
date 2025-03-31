@@ -7,6 +7,7 @@ import {
   SpainCommunitiesGeoJSON,
   ViviendasTuristicasComunidadesData,
 } from "../types";
+import { DynamicLoader } from "./loading/DynamicLoader";
 
 interface MapaViviendaTuristicaComunidadesProps {
   geoData: SpainCommunitiesGeoJSON;
@@ -39,7 +40,7 @@ export const MapaViviendaTuristicaComunidades: React.FC<MapaViviendaTuristicaCom
   }, [month, year, rawData]);
 
   if (data.length === 0) {
-    return <div>Cargando...</div>;
+    return <DynamicLoader loading={data.length === 0} message="Cargando datos..." />;
   }
 
   // Calcular el total de viviendas turísticas

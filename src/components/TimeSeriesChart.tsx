@@ -18,12 +18,12 @@ export const TimeSeriesChart: React.FC<TimeSeriesChartProps> = ({ data }) => {
   // Dimensiones de referencia para el viewBox
   const width = 800;
   const height = 400;
-  const margin = { top: 20, right: 60, bottom: 40, left: 60 };
+  const margin = { top: 20, right: 60, bottom: 40, left: 35 };
 
   // Convertir el año (string) a Date
   const parseYear = timeParse("%Y");
   const dataParsed = data.map((d) => ({
-    year: parseYear(d.year.toString()),
+    year: parseYear(d.year.toString())!,
     totalTurismo: d.totalTurismo,
     totalHipotecas: d.totalHipotecas,
   }));
@@ -98,7 +98,7 @@ export const TimeSeriesChart: React.FC<TimeSeriesChartProps> = ({ data }) => {
               textAnchor="start"
               style={{ fontSize: "0.8rem" }}
             >
-              {tick} €
+              {tick} h
             </text>
           ))}
         </g>
@@ -148,11 +148,11 @@ export const TimeSeriesChart: React.FC<TimeSeriesChartProps> = ({ data }) => {
         <g transform={`translate(${width - 3.5*margin.right}, ${margin.top-20})`}>
           <rect x={0} y={0} width={15} height={15} fill="red" />
           <text x={20} y={12} style={{ fontSize: "0.8rem" }}>
-            Turismo (personas)
+            Nº Turistas
           </text>
           <rect x={0} y={20} width={15} height={15} fill="green" />
           <text x={20} y={32} style={{ fontSize: "0.8rem" }}>
-            Hipotecas (euros)
+            Nº Hipotecas
           </text>
         </g>
       </svg>
